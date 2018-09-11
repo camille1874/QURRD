@@ -1,0 +1,11269 @@
+what	<WH>
+might	<PP>
+be oxygenated	<TRG>
+
+how	<WH>
+might	<PP>
+something	<SBJ>
+be oxygenated	<TRG>
+
+what	<WH>
+has	<PP>
+experienced	<TRG>
+something	<OBJ>
+
+what	<WH>
+has	<PP>
+something	<SBJ>
+experienced	<TRG>
+
+what	<WH>
+has	<PP>
+been proposed	<TRG>
+
+who	<WH>
+has	<PP>
+something	<SBJ>
+been proposed	<TRG>
+by	<PP>
+
+what	<WH>
+was	<PP>
+protected	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+protected	<TRG>
+from	<PP>
+
+what	<WH>
+was	<PP>
+protecting	<TRG>
+something	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+protecting	<TRG>
+something	<OBJ>
+
+who	<WH>
+launched	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+launch	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+launch	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+launch	<TRG>
+something	<OBJ>
+into	<PP>
+
+who	<WH>
+killed	<TRG>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+kill	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+kill	<TRG>
+someone	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+kill	<TRG>
+someone	<OBJ>
+
+who	<WH>
+captured	<TRG>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+capture	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+capture	<TRG>
+someone	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+capture	<TRG>
+someone	<OBJ>
+
+what	<WH>
+provides	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+provide	<TRG>
+
+why	<WH>
+does	<PP>
+something	<SBJ>
+provide	<TRG>
+something	<OBJ>
+
+who	<WH>
+saw	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+see	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+see	<TRG>
+
+who	<WH>
+scorned	<TRG>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+scorn	<TRG>
+
+who	<WH>
+trembled	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+tremble	<TRG>
+with	<PP>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+tremble	<TRG>
+at	<PP>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+tremble	<TRG>
+
+who	<WH>
+might	<PP>
+fear	<TRG>
+someone	<OBJ>
+
+who	<WH>
+might	<PP>
+someone	<SBJ>
+fear	<TRG>
+
+what	<WH>
+is	<PP>
+disallowed	<TRG>
+
+why	<WH>
+would	<PP>
+something	<SBJ>
+be disallowed	<TRG>
+
+what	<WH>
+hosts	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+host	<TRG>
+
+what	<WH>
+was	<PP>
+called	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+called	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+called	<TRG>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+found	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+found	<TRG>
+on	<PP>
+
+what	<WH>
+has	<TRG>
+something	<OBJ>
+
+how much	<WH>
+does	<PP>
+something	<SBJ>
+have	<TRG>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+have	<TRG>
+
+when	<WH>
+does	<PP>
+something	<SBJ>
+have	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+hold	<TRG>
+
+what	<WH>
+is	<PP>
+equipped	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+equipped	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+changes	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+changed	<TRG>
+
+what	<WH>
+modifies	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+modified	<TRG>
+
+what	<WH>
+marks	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+mark	<TRG>
+
+who	<WH>
+had	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+have	<TRG>
+
+who	<WH>
+accused	<TRG>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+accused	<TRG>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+accused	<TRG>
+of	<PP>
+
+who	<WH>
+might	<PP>
+have been hiding	<TRG>
+
+where	<WH>
+might	<PP>
+someone	<SBJ>
+have been hiding	<TRG>
+
+when	<WH>
+might	<PP>
+someone	<SBJ>
+have been hiding	<TRG>
+
+who	<WH>
+fought	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+fight	<TRG>
+for	<PP>
+
+who	<WH>
+accused	<TRG>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+accused	<TRG>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+accused	<TRG>
+of	<PP>
+
+what	<WH>
+might not	<PP>
+be found	<TRG>
+
+what	<WH>
+was	<PP>
+known	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+known	<TRG>
+as	<PP>
+
+what	<WH>
+was	<PP>
+developed	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+developed	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+developed	<TRG>
+
+who	<WH>
+observed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+observe	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+observe	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+observe	<TRG>
+something	<OBJ>
+
+who	<WH>
+attempted	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+attempt	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+attempt	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+attempt	<TRG>
+something	<OBJ>
+
+what	<WH>
+might	<PP>
+have been popularized	<TRG>
+
+where	<WH>
+might	<PP>
+something	<SBJ>
+have been popularized	<TRG>
+
+who	<WH>
+might	<PP>
+have popularized	<TRG>
+something	<OBJ>
+
+who	<WH>
+encountered	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+encounter	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+encounter	<TRG>
+something	<OBJ>
+
+what	<WH>
+followed	<TRG>
+something	<OBJ>
+
+what	<WH>
+included	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+included	<TRG>
+
+who	<WH>
+landed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+land	<TRG>
+
+what	<WH>
+had	<PP>
+declined	<TRG>
+
+when	<WH>
+had	<PP>
+something	<SBJ>
+declined	<TRG>
+
+how	<WH>
+had	<PP>
+something	<SBJ>
+declined	<TRG>
+
+who	<WH>
+proposed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+propose	<TRG>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+propose	<TRG>
+something	<OBJ>
+to	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+propose	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+propose	<TRG>
+something	<OBJ>
+
+who	<WH>
+should	<PP>
+establish	<TRG>
+something	<OBJ>
+
+what	<WH>
+should	<PP>
+someone	<SBJ>
+establish	<TRG>
+
+who	<WH>
+should	<PP>
+someone	<SBJ>
+establish	<TRG>
+something	<OBJ>
+for	<PP>
+
+who	<WH>
+would	<PP>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+become	<TRG>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+become	<TRG>
+something	<OBJ>
+of	<PP>
+
+what	<WH>
+is	<PP>
+caused	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+caused	<TRG>
+by	<PP>
+
+when	<WH>
+is	<PP>
+something	<SBJ>
+caused	<TRG>
+
+what	<WH>
+are	<PP>
+interacting	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+interacting	<TRG>
+
+who	<WH>
+introduced	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+introduce	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+introduce	<TRG>
+something	<OBJ>
+
+who	<WH>
+retained	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+retain	<TRG>
+
+who	<WH>
+extended	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+extend	<TRG>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+extend	<TRG>
+something	<OBJ>
+to	<PP>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+extend	<TRG>
+something	<OBJ>
+to	<PP>
+someone	<OBJ>
+
+who	<WH>
+allowed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+allow	<TRG>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+what	<WH>
+is	<PP>
+defined	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+defined	<TRG>
+as	<PP>
+
+what	<WH>
+is	<PP>
+squared	<TRG>
+
+what	<WH>
+transform	<TRG>
+
+what	<WH>
+is	<PP>
+squared	<TRG>
+
+what	<WH>
+transform	<TRG>
+
+what	<WH>
+was	<PP>
+placed	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+placed	<TRG>
+on	<PP>
+
+what	<WH>
+was n't	<PP>
+vaulted	<TRG>
+
+what	<WH>
+retains	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+retain	<TRG>
+
+what	<WH>
+is	<PP>
+serving	<TRG>
+someone	<OBJ>
+
+who	<WH>
+is	<PP>
+being served	<TRG>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+include	<TRG>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+reflected	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+reflected	<TRG>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+reflected	<TRG>
+
+who	<WH>
+suggests	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+suggest	<TRG>
+
+what	<WH>
+negates	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+negate	<TRG>
+
+who	<WH>
+might	<PP>
+consider	<TRG>
+something	<OBJ>
+
+what	<WH>
+might	<PP>
+someone	<SBJ>
+consider	<TRG>
+something	<OBJ>
+to	<PP>
+
+why	<WH>
+might not	<PP>
+someone	<SBJ>
+consider	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+ending	<TRG>
+for	<PP>
+
+what	<WH>
+ending	<TRG>
+
+who	<WH>
+was	<PP>
+something	<SBJ>
+reserved	<TRG>
+by	<PP>
+
+what	<WH>
+was	<PP>
+reserved	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+considered	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+considered	<TRG>
+as	<PP>
+
+why	<WH>
+was	<PP>
+someone	<SBJ>
+considered	<TRG>
+as	<PP>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+honored	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+honored	<TRG>
+with	<PP>
+
+why	<WH>
+was	<PP>
+someone	<SBJ>
+honored	<TRG>
+with	<PP>
+something	<OBJ>
+
+who	<WH>
+had	<PP>
+something	<SBJ>
+named	<TRG>
+for	<PP>
+
+what	<WH>
+was	<PP>
+named	<TRG>
+for	<PP>
+someone	<OBJ>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+named	<TRG>
+for	<PP>
+someone	<OBJ>
+
+what	<WH>
+is	<PP>
+ablated	<TRG>
+
+why	<WH>
+is n't	<PP>
+something	<SBJ>
+ablated	<TRG>
+
+what	<WH>
+cuts	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+cut	<TRG>
+
+what	<WH>
+is	<PP>
+cut	<TRG>
+
+what	<WH>
+cuts	<TRG>
+something	<OBJ>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+cut	<TRG>
+
+what	<WH>
+is	<PP>
+flushed	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+flushed	<TRG>
+with	<PP>
+
+what	<WH>
+was	<PP>
+found	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+found	<TRG>
+
+what	<WH>
+flooded	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+flood	<TRG>
+
+what	<WH>
+damaged	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+damaged	<TRG>
+
+what	<WH>
+is	<PP>
+related	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+related	<TRG>
+to	<PP>
+
+who	<WH>
+lives	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+live	<TRG>
+
+who	<WH>
+assigned	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+assign	<TRG>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+assign	<TRG>
+something	<OBJ>
+to	<PP>
+
+who	<WH>
+remains	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+remain	<TRG>
+
+what	<WH>
+is	<PP>
+seen	<TRG>
+
+who	<WH>
+is	<PP>
+ranked	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+ranked	<TRG>
+
+what	<WH>
+was	<PP>
+won	<TRG>
+
+who	<WH>
+gave	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+give	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+give	<TRG>
+something	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+give	<TRG>
+something	<OBJ>
+to	<PP>
+
+who	<WH>
+can	<PP>
+segregate	<TRG>
+someone	<OBJ>
+
+who	<WH>
+can	<PP>
+be segregated	<TRG>
+
+what	<WH>
+provides	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+provide	<TRG>
+
+who	<WH>
+does	<PP>
+something	<SBJ>
+provide	<TRG>
+something	<OBJ>
+to	<PP>
+
+how	<WH>
+does	<PP>
+something	<SBJ>
+provide	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+living	<TRG>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+living	<TRG>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+include	<TRG>
+
+what	<WH>
+was	<PP>
+made	<TRG>
+up of	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+up of	<PP>
+
+what	<WH>
+had	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+have	<TRG>
+
+what	<WH>
+is	<PP>
+continuing	<TRG>
+
+what	<WH>
+was	<PP>
+specified	<TRG>
+
+who	<WH>
+was	<PP>
+something	<SBJ>
+specified	<TRG>
+for	<PP>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+specified	<TRG>
+
+who	<WH>
+was	<PP>
+freed	<TRG>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+could	<PP>
+someone	<SBJ>
+own	<TRG>
+
+who	<WH>
+could	<PP>
+own	<TRG>
+something	<OBJ>
+
+how	<WH>
+could	<PP>
+someone	<SBJ>
+own	<TRG>
+something	<OBJ>
+
+what	<WH>
+had	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+have	<TRG>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+have	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+have	<TRG>
+something	<OBJ>
+
+who	<WH>
+served	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+serve	<TRG>
+as	<PP>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+what	<WH>
+included	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+include	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+include	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+include	<TRG>
+something	<OBJ>
+in	<PP>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+include	<TRG>
+something	<OBJ>
+as	<PP>
+
+what	<WH>
+contains	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+contain	<TRG>
+
+what	<WH>
+grows	<TRG>
+
+how	<WH>
+does	<PP>
+something	<SBJ>
+grow	<TRG>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+grow	<TRG>
+
+what	<WH>
+can	<PP>
+be used	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+be used	<TRG>
+as	<PP>
+
+what	<WH>
+can	<PP>
+be grown	<TRG>
+
+why	<WH>
+can	<PP>
+something	<SBJ>
+be grown	<TRG>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+increase	<TRG>
+
+what	<WH>
+can	<PP>
+increase	<TRG>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+scavenge	<TRG>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+scavenge	<TRG>
+
+what	<WH>
+can	<PP>
+suppress	<TRG>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+suppress	<TRG>
+
+what	<WH>
+can	<PP>
+help	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+help	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+can	<PP>
+alleviate	<TRG>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+alleviate	<TRG>
+
+what	<WH>
+can	<PP>
+prevent	<TRG>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+prevent	<TRG>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+go	<TRG>
+on to	<PP>
+
+who	<WH>
+went	<TRG>
+on to	<PP>
+something	<OBJ>
+
+what	<WH>
+premiered	<TRG>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+premiere	<TRG>
+
+what	<WH>
+combined	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+combine	<TRG>
+
+what	<WH>
+refused	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+refuse	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+did n't	<PP>
+recognize	<TRG>
+something	<OBJ>
+
+what	<WH>
+did n't	<PP>
+something	<SBJ>
+recognize	<TRG>
+
+what	<WH>
+solved	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+solve	<TRG>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+solved	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+worsen	<TRG>
+
+what	<WH>
+worsened	<TRG>
+something	<OBJ>
+
+what	<WH>
+led	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+lead	<TRG>
+to	<PP>
+
+how	<WH>
+did	<PP>
+something	<SBJ>
+lead	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+known	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+something	<SBJ>
+known	<TRG>
+as	<PP>
+
+where	<WH>
+are	<PP>
+something	<SBJ>
+known	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+be required	<TRG>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+be required	<TRG>
+for	<PP>
+
+what	<WH>
+stands	<TRG>
+in	<PP>
+something	<OBJ>
+
+how	<WH>
+does	<PP>
+something	<SBJ>
+stand	<TRG>
+
+what	<WH>
+proposes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+propose	<TRG>
+
+how	<WH>
+does	<PP>
+something	<SBJ>
+propose	<TRG>
+something	<OBJ>
+
+what	<WH>
+may	<PP>
+be viewed	<TRG>
+
+how	<WH>
+may	<PP>
+something	<SBJ>
+be viewed	<TRG>
+
+what	<WH>
+is	<PP>
+examined	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+examined	<TRG>
+for	<PP>
+
+what	<WH>
+composes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+compose	<TRG>
+
+who	<WH>
+was	<PP>
+involved	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+involved	<TRG>
+in	<PP>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+involved	<TRG>
+in	<PP>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+involved	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+oppose	<TRG>
+
+who	<WH>
+opposed	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+oppose	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+opened	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+opened	<TRG>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+opened	<TRG>
+
+what	<WH>
+would	<PP>
+carry	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+something	<SBJ>
+carry	<TRG>
+
+where	<WH>
+would	<PP>
+something	<SBJ>
+be carried	<TRG>
+
+what	<WH>
+was	<PP>
+closed	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+closed	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+closed	<TRG>
+to	<PP>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+closed	<TRG>
+
+what	<WH>
+was	<PP>
+deemed	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+deemed	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+deemed	<TRG>
+something	<OBJ>
+
+what	<WH>
+would n't	<PP>
+be made	<TRG>
+
+why	<WH>
+would n't	<PP>
+something	<SBJ>
+be made	<TRG>
+
+where	<WH>
+would n't	<PP>
+something	<SBJ>
+be made	<TRG>
+
+what	<WH>
+wo n't	<PP>
+be kept	<TRG>
+something	<OBJ>
+
+how	<WH>
+wo n't	<PP>
+something	<SBJ>
+be kept	<TRG>
+
+why	<WH>
+wo n't	<PP>
+something	<SBJ>
+be kept	<TRG>
+something	<OBJ>
+
+who	<WH>
+wrote	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+write	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+write	<TRG>
+
+what	<WH>
+is	<PP>
+known	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+known	<TRG>
+as	<PP>
+
+what	<WH>
+can	<PP>
+be applied	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+be applied	<TRG>
+to	<PP>
+
+what	<WH>
+follows	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+follow	<TRG>
+
+what	<WH>
+demonstrates	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+demonstrate	<TRG>
+
+who	<WH>
+painted	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+paint	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+put	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+put	<TRG>
+under	<PP>
+something	<OBJ>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+put	<TRG>
+something	<OBJ>
+under	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+warmed	<TRG>
+
+what	<WH>
+warmed	<TRG>
+something	<OBJ>
+
+what	<WH>
+went	<TRG>
+out	<PP>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+go	<TRG>
+out	<PP>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+who	<WH>
+suggests	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+suggest	<TRG>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+suggest	<TRG>
+something	<OBJ>
+
+who	<WH>
+may	<PP>
+have suffered	<TRG>
+from	<PP>
+something	<OBJ>
+
+what	<WH>
+may	<PP>
+someone	<SBJ>
+have suffered	<TRG>
+from	<PP>
+
+why	<WH>
+may	<PP>
+someone	<SBJ>
+have suffered	<TRG>
+from	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+made	<TRG>
+from	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+made	<TRG>
+from	<PP>
+
+what	<WH>
+has	<PP>
+been diluted	<TRG>
+
+what	<WH>
+merged	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+merge	<TRG>
+with	<PP>
+
+what	<WH>
+was	<PP>
+formed	<TRG>
+
+how	<WH>
+did	<PP>
+something	<SBJ>
+form	<TRG>
+
+what	<WH>
+is	<PP>
+called	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+called	<TRG>
+
+who	<WH>
+would	<PP>
+refrain	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+refrain	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+would n't	<PP>
+interfere	<TRG>
+
+where	<WH>
+would n't	<PP>
+someone	<SBJ>
+interfere	<TRG>
+
+what	<WH>
+relies	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+rely	<TRG>
+on	<PP>
+
+what	<WH>
+seeks	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+seek	<TRG>
+
+what	<WH>
+shows	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+show	<TRG>
+
+what	<WH>
+fits	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+fit	<TRG>
+with	<PP>
+
+who	<WH>
+stated	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+state	<TRG>
+
+who	<WH>
+looked	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+look	<TRG>
+
+who	<WH>
+was	<PP>
+murdered	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+someone	<SBJ>
+murdered	<TRG>
+by	<PP>
+
+who	<WH>
+specializes	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+specialize	<TRG>
+in	<PP>
+
+who	<WH>
+delayed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+delay	<TRG>
+
+who	<WH>
+did n't	<PP>
+declare	<TRG>
+something	<OBJ>
+
+what	<WH>
+did n't	<PP>
+someone	<SBJ>
+declare	<TRG>
+
+what	<WH>
+led	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+lead	<TRG>
+to	<PP>
+
+who	<WH>
+supported	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+support	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+support	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+provide	<TRG>
+for	<PP>
+
+what	<WH>
+provided	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+disbanded	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+disband	<TRG>
+
+who	<WH>
+was	<PP>
+raising	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+raising	<TRG>
+
+who	<WH>
+prorogued	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+prorogue	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+prorogue	<TRG>
+something	<OBJ>
+
+what	<WH>
+was n't	<PP>
+disbanded	<TRG>
+
+when	<WH>
+was n't	<PP>
+something	<SBJ>
+disbanded	<TRG>
+
+why	<WH>
+was	<PP>
+someone	<SBJ>
+worried	<TRG>
+
+who	<WH>
+was	<PP>
+worried	<TRG>
+by	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+worried	<TRG>
+
+what	<WH>
+is	<PP>
+characterized	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+characterized	<TRG>
+by	<PP>
+
+what	<WH>
+provides	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+provide	<TRG>
+
+what	<WH>
+causes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+cause	<TRG>
+
+who	<WH>
+reinforced	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+reinforce	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+reinforce	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+reinforce	<TRG>
+something	<OBJ>
+
+who	<WH>
+defeated	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+defeat	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+defeat	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+defeat	<TRG>
+someone	<OBJ>
+
+who	<WH>
+began	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+something	<OBJ>
+with	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+something	<OBJ>
+
+what	<WH>
+led	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+lead	<TRG>
+to	<PP>
+
+who	<WH>
+lost	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+lose	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+lose	<TRG>
+something	<OBJ>
+
+who	<WH>
+fires	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+fire	<TRG>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+fire	<TRG>
+something	<OBJ>
+from	<PP>
+
+what	<WH>
+is	<PP>
+disintegrating	<TRG>
+
+what	<WH>
+can	<PP>
+transmute	<TRG>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+be transmuted	<TRG>
+
+why	<WH>
+would	<PP>
+something	<SBJ>
+be transmuted	<TRG>
+
+what	<WH>
+can	<PP>
+erase	<TRG>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+be erased	<TRG>
+by	<PP>
+something	<OBJ>
+
+why	<WH>
+would	<PP>
+something	<SBJ>
+be erased	<TRG>
+
+what	<WH>
+is	<PP>
+living	<TRG>
+
+what	<WH>
+can	<PP>
+be resurrected	<TRG>
+
+what	<WH>
+can	<PP>
+resurrect	<TRG>
+something	<OBJ>
+
+why	<WH>
+would	<PP>
+something	<SBJ>
+be resurrected	<TRG>
+
+what	<WH>
+depends	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+depend	<TRG>
+on	<PP>
+
+what	<WH>
+was	<PP>
+captured	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+captured	<TRG>
+by	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+captured	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+regained	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+regained	<TRG>
+
+who	<WH>
+was	<PP>
+something	<SBJ>
+regained	<TRG>
+by	<PP>
+
+what	<WH>
+was	<PP>
+followed	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+follow	<TRG>
+
+who	<WH>
+does n't	<PP>
+possess	<TRG>
+something	<OBJ>
+
+what	<WH>
+does n't	<PP>
+someone	<SBJ>
+possess	<TRG>
+
+who	<WH>
+must	<PP>
+lick	<TRG>
+something	<OBJ>
+
+what	<WH>
+must	<PP>
+someone	<SBJ>
+lick	<TRG>
+
+why	<WH>
+must	<PP>
+someone	<SBJ>
+lick	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+kept	<TRG>
+something	<OBJ>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+kept	<TRG>
+
+who	<WH>
+keeps	<TRG>
+something	<OBJ>
+
+how	<WH>
+does	<PP>
+someone	<SBJ>
+keep	<TRG>
+something	<OBJ>
+
+who	<WH>
+asked	<TRG>
+someone	<OBJ>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+ask	<TRG>
+someone	<OBJ>
+for	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+ask	<TRG>
+someone	<OBJ>
+for	<PP>
+something	<OBJ>
+
+who	<WH>
+is	<PP>
+known	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+known	<TRG>
+as	<PP>
+
+who	<WH>
+put	<TRG>
+something	<OBJ>
+on	<PP>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+put	<TRG>
+on	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+put	<TRG>
+something	<OBJ>
+on	<PP>
+
+who	<WH>
+announced	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+announce	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+announce	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+fund	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+something	<SBJ>
+fund	<TRG>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+be offering	<TRG>
+
+who	<WH>
+will	<PP>
+something	<SBJ>
+be offered	<TRG>
+to	<PP>
+
+who	<WH>
+is	<PP>
+offering	<TRG>
+something	<OBJ>
+to	<PP>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+ride	<TRG>
+something	<OBJ>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+ride	<TRG>
+
+who	<WH>
+had	<PP>
+believed	<TRG>
+something	<OBJ>
+
+what	<WH>
+had	<PP>
+someone	<SBJ>
+believed	<TRG>
+
+what	<WH>
+was	<PP>
+scorched	<TRG>
+
+who	<WH>
+had	<PP>
+scorched	<TRG>
+something	<OBJ>
+
+what	<WH>
+might not	<PP>
+work	<TRG>
+
+where	<WH>
+might not	<PP>
+something	<SBJ>
+work	<TRG>
+
+who	<WH>
+said	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+say	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+say	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+say	<TRG>
+something	<OBJ>
+
+who	<WH>
+hid	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+hide	<TRG>
+
+who	<WH>
+was	<PP>
+dealt	<TRG>
+with	<PP>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+dealt	<TRG>
+with	<PP>
+
+who	<WH>
+is n't	<PP>
+accepted	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+is n't	<PP>
+someone	<SBJ>
+accepted	<TRG>
+as	<PP>
+
+who	<WH>
+maintain	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+maintain	<TRG>
+
+how	<WH>
+does	<PP>
+someone	<SBJ>
+maintain	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+loved	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+loved	<TRG>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+exalted	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+exalted	<TRG>
+someone	<OBJ>
+
+who	<WH>
+believe	<TRG>
+in	<PP>
+someone	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+believe	<TRG>
+someone	<OBJ>
+as	<PP>
+
+who	<WH>
+is	<PP>
+believed	<TRG>
+
+what	<WH>
+is	<PP>
+accepted	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+has	<PP>
+accepted	<TRG>
+something	<OBJ>
+
+who	<WH>
+won	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+something	<OBJ>
+
+who	<WH>
+apologized	<TRG>
+to	<PP>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+apologize	<TRG>
+to	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+apologize	<TRG>
+to	<PP>
+someone	<OBJ>
+
+what	<WH>
+cited	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+cited	<TRG>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+cited	<TRG>
+for	<PP>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+forcing	<TRG>
+
+what	<WH>
+forces	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+born	<TRG>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+born	<TRG>
+
+who	<WH>
+was	<PP>
+said	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+said	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+was	<PP>
+made	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+
+who	<WH>
+had	<PP>
+made	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+be found	<TRG>
+
+what	<WH>
+would	<PP>
+find	<TRG>
+something	<OBJ>
+
+how	<WH>
+would	<PP>
+something	<SBJ>
+find	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+be used	<TRG>
+
+why	<WH>
+would	<PP>
+something	<SBJ>
+be used	<TRG>
+
+who	<WH>
+introduced	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+introduced	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+introduced	<TRG>
+to	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+control	<TRG>
+something	<OBJ>
+
+who	<WH>
+controlled	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+control	<TRG>
+
+what	<WH>
+is	<PP>
+served	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+served	<TRG>
+by	<PP>
+
+who	<WH>
+said	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+say	<TRG>
+
+what	<WH>
+caused	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+caused	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+cause	<TRG>
+something	<OBJ>
+with	<PP>
+
+who	<WH>
+is	<PP>
+teaming	<TRG>
+up	<PP>
+
+why	<WH>
+is	<PP>
+someone	<SBJ>
+teaming	<TRG>
+up	<PP>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+called	<TRG>
+
+what	<WH>
+is	<PP>
+called	<TRG>
+something	<OBJ>
+
+who	<WH>
+will	<PP>
+work	<TRG>
+something	<OBJ>
+
+how	<WH>
+will	<PP>
+someone	<SBJ>
+work	<TRG>
+
+who	<WH>
+notes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+note	<TRG>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+note	<TRG>
+something	<OBJ>
+with	<PP>
+
+who	<WH>
+states	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+state	<TRG>
+
+who	<WH>
+uses	<TRG>
+something	<OBJ>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+use	<TRG>
+something	<OBJ>
+as	<PP>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+use	<TRG>
+
+who	<WH>
+assures	<TRG>
+someone	<OBJ>
+something	<OBJ>
+
+who	<WH>
+is	<PP>
+assured	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+assured	<TRG>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+do	<TRG>
+
+what	<WH>
+does	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+according	<TRG>
+to	<PP>
+
+what	<WH>
+is	<PP>
+according	<TRG>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+have	<TRG>
+something	<OBJ>
+
+what	<WH>
+do	<PP>
+someone	<SBJ>
+have	<TRG>
+
+what	<WH>
+is	<PP>
+being led	<TRG>
+
+who	<WH>
+is	<PP>
+leading	<TRG>
+something	<OBJ>
+
+who	<WH>
+made	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+make	<TRG>
+
+who	<WH>
+patented	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+patent	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+patented	<TRG>
+
+what	<WH>
+was	<PP>
+sold	<TRG>
+to	<PP>
+someone	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+sold	<TRG>
+to	<PP>
+someone	<OBJ>
+
+who	<WH>
+sold	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+sold	<TRG>
+to	<PP>
+
+what	<WH>
+can	<PP>
+be represented	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+be represented	<TRG>
+by	<PP>
+
+who	<WH>
+do n't	<PP>
+recover	<TRG>
+something	<OBJ>
+
+how	<WH>
+does n't	<PP>
+someone	<SBJ>
+recover	<TRG>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+included	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+included	<TRG>
+for	<PP>
+
+what	<WH>
+is	<PP>
+being acquired	<TRG>
+
+what	<WH>
+might	<PP>
+accelerate	<TRG>
+something	<OBJ>
+
+what	<WH>
+might	<PP>
+be accelerated	<TRG>
+
+what	<WH>
+is	<PP>
+pointed	<TRG>
+to	<PP>
+
+who	<WH>
+points	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+had	<TRG>
+something	<OBJ>
+
+what	<WH>
+had	<PP>
+something	<SBJ>
+had	<TRG>
+
+who	<WH>
+develops	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+develop	<TRG>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+develop	<TRG>
+something	<OBJ>
+as	<PP>
+
+who	<WH>
+is	<PP>
+dream	<TRG>
+
+who	<WH>
+is	<PP>
+appearing	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+is	<PP>
+someone	<SBJ>
+appearing	<TRG>
+
+what	<WH>
+is	<PP>
+spanning	<TRG>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+spanning	<TRG>
+
+who	<WH>
+was	<PP>
+born	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+born	<TRG>
+
+how much	<WH>
+was	<PP>
+born	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+born	<TRG>
+
+what	<WH>
+had	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+have	<TRG>
+
+what	<WH>
+came	<TRG>
+through	<PP>
+something	<OBJ>
+
+what	<WH>
+came	<TRG>
+through	<PP>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+lose	<TRG>
+
+who	<WH>
+lost	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+lose	<TRG>
+something	<OBJ>
+
+who	<WH>
+resigned	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+resign	<TRG>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+relocate	<TRG>
+to	<PP>
+
+who	<WH>
+relocated	<TRG>
+to	<PP>
+somewhere	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+relocate	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+relocate	<TRG>
+to	<PP>
+somewhere	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+who	<WH>
+is	<PP>
+working	<TRG>
+
+how	<WH>
+is	<PP>
+someone	<SBJ>
+working	<TRG>
+
+where	<WH>
+is	<PP>
+someone	<SBJ>
+working	<TRG>
+
+where	<WH>
+is	<PP>
+someone	<SBJ>
+working	<TRG>
+
+how	<WH>
+is	<PP>
+someone	<SBJ>
+working	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+is	<PP>
+working	<TRG>
+somewhere	<OBJ>
+
+what	<WH>
+do n't	<PP>
+contribute	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+do n't	<PP>
+something	<SBJ>
+contribute	<TRG>
+to	<PP>
+
+why	<WH>
+do n't	<PP>
+something	<SBJ>
+contribute	<TRG>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+chose	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+choose	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+choose	<TRG>
+something	<OBJ>
+as	<PP>
+
+who	<WH>
+accepted	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+accepted	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+accepted	<TRG>
+as	<PP>
+
+what	<WH>
+was	<PP>
+authored	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+authored	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+passed	<TRG>
+over	<PP>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+passed	<TRG>
+over	<PP>
+
+who	<WH>
+secures	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+secure	<TRG>
+
+who	<WH>
+is	<PP>
+leaving	<TRG>
+someone	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+leave	<TRG>
+
+why	<WH>
+does	<PP>
+someone	<SBJ>
+leave	<TRG>
+someone	<OBJ>
+for	<PP>
+
+what	<WH>
+was	<PP>
+ranked	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+ranked	<TRG>
+
+what	<WH>
+was	<PP>
+placed	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+placed	<TRG>
+
+what	<WH>
+lists	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+listed	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+listed	<TRG>
+as	<PP>
+
+what	<WH>
+is	<PP>
+selling	<TRG>
+
+who	<WH>
+used	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+use	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+use	<TRG>
+
+what	<WH>
+went	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+something	<SBJ>
+go	<TRG>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+go	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+established	<TRG>
+
+who	<WH>
+speak	<TRG>
+something	<OBJ>
+
+what	<WH>
+do	<PP>
+someone	<SBJ>
+speak	<TRG>
+
+where	<WH>
+do	<PP>
+someone	<SBJ>
+speak	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+called	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+called	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+called	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+included	<TRG>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+spoken	<TRG>
+
+who	<WH>
+speaks	<TRG>
+something	<OBJ>
+
+where	<WH>
+do	<PP>
+someone	<SBJ>
+speak	<TRG>
+something	<OBJ>
+
+what	<WH>
+led	<TRG>
+someone	<OBJ>
+do something	<OBJ>
+
+who	<WH>
+was	<PP>
+led	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+led	<TRG>
+to	<PP>
+do	<OBJ>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+led	<TRG>
+to	<PP>
+do something	<OBJ>
+
+who	<WH>
+would	<PP>
+lobby	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+lobby	<TRG>
+for	<PP>
+
+how	<WH>
+would	<PP>
+someone	<SBJ>
+lobby	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+be put	<TRG>
+
+who	<WH>
+would	<PP>
+put	<TRG>
+something	<OBJ>
+
+why	<WH>
+would	<PP>
+someone	<SBJ>
+put	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+lose	<TRG>
+
+who	<WH>
+would	<PP>
+lose	<TRG>
+something	<OBJ>
+
+who	<WH>
+gained	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+gain	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+gain	<TRG>
+something	<OBJ>
+in	<PP>
+
+who	<WH>
+controlled	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+controlled	<TRG>
+
+who	<WH>
+was	<PP>
+sent	<TRG>
+to	<PP>
+someone	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+sent	<TRG>
+to	<PP>
+
+what	<WH>
+could	<PP>
+someone	<SBJ>
+sent	<TRG>
+do	<OBJ>
+
+who	<WH>
+was	<PP>
+provisioned	<TRG>
+
+who	<WH>
+would	<PP>
+provision	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+policing	<TRG>
+
+who	<WH>
+would	<PP>
+supervise	<TRG>
+someone	<OBJ>
+
+who	<WH>
+would	<PP>
+be supervised	<TRG>
+
+who	<WH>
+would	<PP>
+attend	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+be attended	<TRG>
+
+what	<WH>
+contains	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+contain	<TRG>
+
+what	<WH>
+is	<PP>
+recognized	<TRG>
+
+what	<WH>
+has	<PP>
+something	<SBJ>
+been recognized	<TRG>
+
+what	<WH>
+is	<PP>
+recognized	<TRG>
+
+what	<WH>
+has	<PP>
+something	<SBJ>
+been recognized	<TRG>
+
+who	<WH>
+plays	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+play	<TRG>
+
+what	<WH>
+was	<PP>
+formed	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+formed	<TRG>
+
+who	<WH>
+plays	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+play	<TRG>
+
+when	<WH>
+does	<PP>
+someone	<SBJ>
+confront	<TRG>
+someone	<OBJ>
+
+who	<WH>
+confronts	<TRG>
+someone	<OBJ>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+confront	<TRG>
+
+who	<WH>
+helped	<TRG>
+during	<PP>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+help	<TRG>
+during	<PP>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+help	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+should	<PP>
+be kept	<TRG>
+during	<PP>
+something	<OBJ>
+
+when	<WH>
+should	<PP>
+something	<SBJ>
+be kept	<TRG>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+kept	<TRG>
+during	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+aired	<TRG>
+during	<PP>
+something	<OBJ>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+aired	<TRG>
+during	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+aired	<TRG>
+
+who	<WH>
+aired	<TRG>
+something	<OBJ>
+during	<PP>
+something	<OBJ>
+
+what	<WH>
+carried	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+carry	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+carry	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+receding	<TRG>
+
+when	<WH>
+is	<PP>
+something	<SBJ>
+receding	<TRG>
+
+what	<WH>
+does	<PP>
+receding	<TRG>
+something	<OBJ>
+do	<OBJ>
+
+what	<WH>
+influences	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+influence	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+influence	<TRG>
+something	<OBJ>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+became	<TRG>
+to	<PP>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+who	<WH>
+issued	<TRG>
+something	<OBJ>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+issue	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+issue	<TRG>
+something	<OBJ>
+with	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+issue	<TRG>
+something	<OBJ>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+issue	<TRG>
+something	<OBJ>
+to	<PP>
+
+who	<WH>
+was	<PP>
+appointed	<TRG>
+to	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+to	<PP>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+for	<PP>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+sworn	<TRG>
+of	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+sworn	<TRG>
+of	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+someone	<SBJ>
+sworn	<TRG>
+of	<PP>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+sworn	<TRG>
+of	<PP>
+someone	<OBJ>
+
+who	<WH>
+held	<TRG>
+something	<OBJ>
+as	<PP>
+someone	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+hold	<TRG>
+as	<PP>
+someone	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+hold	<TRG>
+something	<OBJ>
+as	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+hold	<TRG>
+something	<OBJ>
+as	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+readmitted	<TRG>
+as	<PP>
+someone	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+readmitted	<TRG>
+as	<PP>
+someone	<OBJ>
+
+who	<WH>
+served	<TRG>
+for	<PP>
+
+who	<WH>
+became	<TRG>
+someone	<OBJ>
+somewhere	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+someone	<OBJ>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+someone	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+would n't	<PP>
+tolerate	<TRG>
+something	<OBJ>
+
+what	<WH>
+would n't	<PP>
+someone	<SBJ>
+tolerate	<TRG>
+
+what	<WH>
+will	<PP>
+be ratified	<TRG>
+
+what	<WH>
+could	<PP>
+be wielded	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+could	<PP>
+wield	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+chosen	<TRG>
+something	<OBJ>
+of	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+chosen	<TRG>
+something	<OBJ>
+of	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+chosen	<TRG>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+chosen	<TRG>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+what	<WH>
+introduced	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+introduce	<TRG>
+
+what	<WH>
+protects	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+protect	<TRG>
+
+how much	<WH>
+does	<PP>
+something	<SBJ>
+protect	<TRG>
+
+what	<WH>
+protects	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+protect	<TRG>
+
+how much	<WH>
+does	<PP>
+something	<SBJ>
+protect	<TRG>
+
+who	<WH>
+might	<PP>
+need	<TRG>
+something	<OBJ>
+
+what	<WH>
+might	<PP>
+someone	<SBJ>
+need	<TRG>
+
+who	<WH>
+has	<PP>
+joined	<TRG>
+someone	<OBJ>
+somewhere	<OBJ>
+
+who	<WH>
+has	<PP>
+someone	<SBJ>
+joined	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+has	<PP>
+someone	<SBJ>
+joined	<TRG>
+someone	<OBJ>
+
+when	<WH>
+has	<PP>
+someone	<SBJ>
+joined	<TRG>
+someone	<OBJ>
+somewhere	<OBJ>
+
+who	<WH>
+moved	<TRG>
+somewhere	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+move	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+move	<TRG>
+to	<PP>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+move	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+enrolling	<TRG>
+somewhere	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+enrol	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+enrol	<TRG>
+at	<PP>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+enrol	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+might	<PP>
+study	<TRG>
+something	<OBJ>
+somewhere	<OBJ>
+
+when	<WH>
+might	<PP>
+someone	<SBJ>
+study	<TRG>
+something	<OBJ>
+somewhere	<OBJ>
+
+where	<WH>
+might	<PP>
+someone	<SBJ>
+study	<TRG>
+something	<OBJ>
+
+what	<WH>
+might	<PP>
+someone	<SBJ>
+study	<TRG>
+somewhere	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+tipped	<TRG>
+as	<PP>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+tipped	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+tipped	<TRG>
+as	<PP>
+
+who	<WH>
+died	<TRG>
+after	<PP>
+doing something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+die	<TRG>
+after	<PP>
+doing something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+die	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+die	<TRG>
+after	<PP>
+doing something	<OBJ>
+
+who	<WH>
+gave	<TRG>
+something	<OBJ>
+somewhere	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+give	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+give	<TRG>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+proven	<TRG>
+during	<PP>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+proven	<TRG>
+during	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+proven	<TRG>
+
+who	<WH>
+were	<PP>
+mobilized	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+mobilized	<TRG>
+
+who	<WH>
+were	<PP>
+recalled	<TRG>
+to	<PP>
+do something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+recalled	<TRG>
+to	<PP>
+doing something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+recalled	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+was	<PP>
+based	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+based	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+based	<TRG>
+somewhere	<OBJ>
+
+what	<WH>
+was	<PP>
+redesignated	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+redesignated	<TRG>
+as	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+redesignated	<TRG>
+as	<PP>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+who	<WH>
+said	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+say	<TRG>
+
+who	<WH>
+asked	<TRG>
+someone	<OBJ>
+for	<PP>
+something	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+ask	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+ask	<TRG>
+someone	<OBJ>
+for	<PP>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+ask	<TRG>
+someone	<OBJ>
+for	<PP>
+something	<OBJ>
+
+who	<WH>
+could	<PP>
+pray	<TRG>
+
+who	<WH>
+handcuffed	<TRG>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+handcuff	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+handcuff	<TRG>
+someone	<OBJ>
+to	<PP>
+
+who	<WH>
+left	<TRG>
+someone	<OBJ>
+somewhere	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+leave	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+leave	<TRG>
+someone	<OBJ>
+
+what	<WH>
+are	<PP>
+dangling	<TRG>
+off	<PP>
+somewhere	<OBJ>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+dangling	<TRG>
+off	<PP>
+
+what	<WH>
+was	<PP>
+mentioned	<TRG>
+as	<PP>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+mentioned	<TRG>
+as	<PP>
+something	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+mentioned	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+mentioned	<TRG>
+as	<PP>
+
+what	<WH>
+was	<PP>
+proposed	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+propose	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+proposed	<TRG>
+
+what	<WH>
+will	<PP>
+be held	<TRG>
+
+who	<WH>
+indicated	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+indicate	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+indicate	<TRG>
+something	<OBJ>
+
+who	<WH>
+should	<PP>
+accept	<TRG>
+something	<OBJ>
+
+what	<WH>
+should	<PP>
+someone	<SBJ>
+accept	<TRG>
+
+when	<WH>
+should	<PP>
+someone	<SBJ>
+accept	<TRG>
+something	<OBJ>
+
+what	<WH>
+could	<PP>
+be passed	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+have	<TRG>
+something	<OBJ>
+for	<PP>
+someone	<OBJ>
+
+who	<WH>
+had	<TRG>
+something	<OBJ>
+for	<PP>
+someone	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+have	<TRG>
+for	<PP>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+have	<TRG>
+something	<OBJ>
+for	<PP>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+consisted	<TRG>
+of	<PP>
+something	<OBJ>
+
+what	<WH>
+consisted	<TRG>
+of	<PP>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+consisted	<TRG>
+of	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+consisted	<TRG>
+of	<PP>
+
+who	<WH>
+has	<TRG>
+something	<OBJ>
+with	<PP>
+someone	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+have	<TRG>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+have	<TRG>
+something	<OBJ>
+with	<PP>
+
+why	<WH>
+does	<PP>
+someone	<SBJ>
+have	<TRG>
+something	<OBJ>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+finds	<TRG>
+out about	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+find	<TRG>
+out about	<PP>
+
+who	<WH>
+passed	<TRG>
+out	<PP>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+pass	<TRG>
+out	<PP>
+
+who	<WH>
+alerts	<TRG>
+someone	<OBJ>
+about	<PP>
+something	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+alert	<TRG>
+about	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+alert	<TRG>
+someone	<OBJ>
+about	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+alert	<TRG>
+someone	<OBJ>
+about	<PP>
+something	<OBJ>
+
+what	<WH>
+shows	<TRG>
+someone	<OBJ>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+show	<TRG>
+someone	<OBJ>
+with	<PP>
+
+who	<WH>
+does	<PP>
+something	<SBJ>
+show	<TRG>
+with	<PP>
+something	<OBJ>
+
+how	<WH>
+does	<PP>
+someone	<SBJ>
+refuse	<TRG>
+to	<PP>
+do something	<OBJ>
+
+who	<WH>
+refuses	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+refuse	<TRG>
+to	<PP>
+do	<OBJ>
+
+why	<WH>
+does	<PP>
+someone	<SBJ>
+refuse	<TRG>
+to	<PP>
+do something	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+refuse	<TRG>
+to	<PP>
+do something	<OBJ>
+
+who	<WH>
+would n't	<PP>
+see	<TRG>
+someone	<OBJ>
+
+where	<WH>
+would n't	<PP>
+someone	<SBJ>
+see	<TRG>
+someone	<OBJ>
+
+who	<WH>
+would n't	<PP>
+someone	<SBJ>
+see	<TRG>
+
+why	<WH>
+would n't	<PP>
+someone	<SBJ>
+see	<TRG>
+someone	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+blame	<TRG>
+someone	<OBJ>
+about	<PP>
+something	<OBJ>
+
+who	<WH>
+blames	<TRG>
+someone	<OBJ>
+about	<PP>
+something	<OBJ>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+blame	<TRG>
+about	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+blame	<TRG>
+someone	<OBJ>
+for	<PP>
+
+who	<WH>
+enlists	<TRG>
+someone	<OBJ>
+to	<PP>
+do something	<OBJ>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+enlist	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+enlist	<TRG>
+someone	<OBJ>
+to	<PP>
+do	<OBJ>
+
+why	<WH>
+does	<PP>
+someone	<SBJ>
+enlist	<TRG>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+travel	<TRG>
+to	<PP>
+do something	<OBJ>
+
+where	<WH>
+will	<PP>
+someone	<SBJ>
+travel	<TRG>
+to	<PP>
+do something	<OBJ>
+
+why	<WH>
+will	<PP>
+someone	<SBJ>
+travel	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+will	<PP>
+help	<TRG>
+someone	<OBJ>
+do something	<OBJ>
+
+where	<WH>
+will	<PP>
+someone	<SBJ>
+help	<TRG>
+someone	<OBJ>
+do something	<OBJ>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+help	<TRG>
+someone	<OBJ>
+with	<PP>
+
+who	<WH>
+will	<PP>
+someone	<SBJ>
+help	<TRG>
+do something	<OBJ>
+
+how	<WH>
+will	<PP>
+someone	<SBJ>
+help	<TRG>
+someone	<OBJ>
+do something	<OBJ>
+
+who	<WH>
+will	<PP>
+catch	<TRG>
+someone	<OBJ>
+
+where	<WH>
+will	<PP>
+someone	<SBJ>
+catch	<TRG>
+someone	<OBJ>
+
+how	<WH>
+will	<PP>
+someone	<SBJ>
+catch	<TRG>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+someone	<SBJ>
+catch	<TRG>
+somewhere	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+won	<TRG>
+somewhere	<OBJ>
+
+how much	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+by	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+
+who	<WH>
+was	<PP>
+brought	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+brought	<TRG>
+on	<PP>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+brought	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+ended	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+end	<TRG>
+with	<PP>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+trying	<TRG>
+to	<PP>
+do something	<OBJ>
+
+who	<WH>
+was	<PP>
+trying	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+trying	<TRG>
+to	<PP>
+do	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+trying	<TRG>
+to	<PP>
+do something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+organising	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+organising	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+organising	<TRG>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+organising	<TRG>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+organising	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+meet	<TRG>
+someone	<OBJ>
+
+who	<WH>
+met	<TRG>
+someone	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+meet	<TRG>
+someone	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+meet	<TRG>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+meet	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+stay	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+stay	<TRG>
+
+who	<WH>
+stayed	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+developed	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+develop	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+develop	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+develop	<TRG>
+something	<OBJ>
+
+what	<WH>
+will	<PP>
+be run	<TRG>
+for	<PP>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+something	<SBJ>
+be run	<TRG>
+for	<PP>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+who	<WH>
+held	<TRG>
+something	<OBJ>
+for	<PP>
+someone	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+hold	<TRG>
+for	<PP>
+someone	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+hold	<TRG>
+something	<OBJ>
+for	<PP>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+hold	<TRG>
+something	<OBJ>
+for	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+hold	<TRG>
+something	<OBJ>
+for	<PP>
+someone	<OBJ>
+
+what	<WH>
+comprises	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+comprise	<TRG>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+comprise	<TRG>
+something	<OBJ>
+
+where	<WH>
+is	<PP>
+kill	<TRG>
+
+who	<WH>
+helps	<TRG>
+someone	<OBJ>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+help	<TRG>
+
+who	<WH>
+marvel	<TRG>
+at	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+marvel	<TRG>
+at	<PP>
+
+who	<WH>
+is	<PP>
+revealed	<TRG>
+
+what	<WH>
+is	<PP>
+revealed	<TRG>
+about	<PP>
+someone	<OBJ>
+
+who	<WH>
+confronts	<TRG>
+someone	<OBJ>
+somewhere	<OBJ>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+confront	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+confront	<TRG>
+someone	<OBJ>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+what	<WH>
+was	<PP>
+broadcast	<TRG>
+
+what	<WH>
+broadcast	<TRG>
+something	<OBJ>
+
+what	<WH>
+has	<PP>
+been followed	<TRG>
+
+what	<WH>
+were	<PP>
+withdrawn	<TRG>
+
+why	<WH>
+were	<PP>
+something	<SBJ>
+withdrawn	<TRG>
+
+where	<WH>
+were	<PP>
+something	<SBJ>
+withdrawn	<TRG>
+
+what	<WH>
+were	<PP>
+replaced	<TRG>
+
+what	<WH>
+replaced	<TRG>
+something	<OBJ>
+
+what	<WH>
+closed	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+close	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+expected	<TRG>
+
+what	<WH>
+was	<PP>
+expected	<TRG>
+
+what	<WH>
+was	<PP>
+remaining	<TRG>
+
+what	<WH>
+would	<PP>
+be obliterated	<TRG>
+
+what	<WH>
+does	<PP>
+exist	<TRG>
+
+what	<WH>
+describes	<TRG>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+being described	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+be understood	<TRG>
+
+what	<WH>
+are	<PP>
+used	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+struck	<TRG>
+in	<PP>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+included	<TRG>
+
+what	<WH>
+are	<PP>
+adapted	<TRG>
+
+where	<WH>
+are	<PP>
+something	<SBJ>
+adapted	<TRG>
+
+what	<WH>
+are	<PP>
+included	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+known	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+something	<SBJ>
+known	<TRG>
+for	<PP>
+
+what	<WH>
+are	<PP>
+switched	<TRG>
+
+how	<WH>
+are	<PP>
+something	<SBJ>
+switched	<TRG>
+
+what	<WH>
+switches	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+depend	<TRG>
+on	<PP>
+
+what	<WH>
+depends	<TRG>
+on	<PP>
+something	<OBJ>
+
+who	<WH>
+offers	<TRG>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+being offered	<TRG>
+
+who	<WH>
+won	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+laid	<TRG>
+to	<PP>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+laid	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+laid	<TRG>
+
+what	<WH>
+was	<PP>
+rested	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+rested	<TRG>
+
+what	<WH>
+was	<PP>
+erected	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+erected	<TRG>
+
+what	<WH>
+has	<TRG>
+something	<OBJ>
+
+how much	<WH>
+does	<PP>
+something	<SBJ>
+have	<TRG>
+
+what	<WH>
+is	<PP>
+served	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+served	<TRG>
+with	<PP>
+
+who	<WH>
+does n't	<PP>
+end	<TRG>
+up	<PP>
+something	<OBJ>
+
+how	<WH>
+might	<PP>
+someone	<SBJ>
+end	<TRG>
+up	<PP>
+
+how	<WH>
+might	<PP>
+someone	<SBJ>
+be assaulted	<TRG>
+
+who	<WH>
+grabbed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+grab	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+flee	<TRG>
+
+who	<WH>
+will	<PP>
+be joined	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+be joining	<TRG>
+something	<OBJ>
+
+who	<WH>
+have sortied	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+sortie	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+sortie	<TRG>
+
+what	<WH>
+are	<PP>
+being protected	<TRG>
+
+who	<WH>
+launched	<TRG>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+launched	<TRG>
+
+where	<WH>
+were	<PP>
+something	<SBJ>
+launched	<TRG>
+
+what	<WH>
+crosses	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+cross	<TRG>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+exit	<TRG>
+
+what	<WH>
+exits	<TRG>
+somewhere	<OBJ>
+
+what	<WH>
+diverges	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+diverge	<TRG>
+
+what	<WH>
+carries	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+carry	<TRG>
+
+who	<WH>
+chose	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+choose	<TRG>
+
+what	<WH>
+are	<PP>
+kept	<TRG>
+
+how	<WH>
+are	<PP>
+something	<SBJ>
+kept	<TRG>
+
+what	<WH>
+was	<PP>
+built	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+built	<TRG>
+
+what	<WH>
+was	<PP>
+destined	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+destined	<TRG>
+for	<PP>
+
+what	<WH>
+maintained	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+maintain	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+maintain	<TRG>
+something	<OBJ>
+
+who	<WH>
+broke	<TRG>
+out	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+break	<TRG>
+out	<PP>
+
+what	<WH>
+was	<PP>
+taken	<TRG>
+
+who	<WH>
+took	<TRG>
+something	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+raced	<TRG>
+
+who	<WH>
+raced	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+was	<PP>
+routed	<TRG>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+routed	<TRG>
+
+what	<WH>
+was	<PP>
+halted	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+halted	<TRG>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+halted	<TRG>
+
+who	<WH>
+were	<PP>
+barnstorming	<TRG>
+
+what	<WH>
+holds	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+hold	<TRG>
+
+what	<WH>
+differs	<TRG>
+from	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+differ	<TRG>
+from	<PP>
+
+what	<WH>
+is	<PP>
+exited	<TRG>
+
+what	<WH>
+enters	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+enter	<TRG>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+flow	<TRG>
+
+who	<WH>
+released	<TRG>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+released	<TRG>
+
+when	<WH>
+were	<PP>
+something	<SBJ>
+released	<TRG>
+
+what	<WH>
+was	<PP>
+produced	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+produced	<TRG>
+something	<OBJ>
+
+who	<WH>
+switched	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+switched	<TRG>
+to	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+switched	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+recorded	<TRG>
+
+who	<WH>
+recorded	<TRG>
+something	<OBJ>
+
+who	<WH>
+recorded	<TRG>
+something	<OBJ>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+collaborated	<TRG>
+with	<PP>
+someone	<OBJ>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+collaborated	<TRG>
+with	<PP>
+someone	<OBJ>
+
+what	<WH>
+is	<PP>
+turning	<TRG>
+
+what	<WH>
+was	<PP>
+used	<TRG>
+
+what	<WH>
+used	<TRG>
+something	<OBJ>
+
+what	<WH>
+ran	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+ran	<TRG>
+from	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+ran	<TRG>
+to	<PP>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+ran	<TRG>
+
+what	<WH>
+connected	<TRG>
+to	<PP>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+connected	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+connected	<TRG>
+to	<PP>
+
+who	<WH>
+did n't	<PP>
+return	<TRG>
+to	<PP>
+somewhere	<OBJ>
+
+where	<WH>
+did n't	<PP>
+someone	<SBJ>
+return	<TRG>
+to	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+return	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+return	<TRG>
+
+what	<WH>
+was	<PP>
+held	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+held	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+held	<TRG>
+
+who	<WH>
+had	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+have	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+waited	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+wait	<TRG>
+for	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+wait	<TRG>
+until	<PP>
+
+who	<WH>
+played	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+someone	<OBJ>
+
+what	<WH>
+is	<PP>
+being used	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+being used	<TRG>
+for	<PP>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+being constructed	<TRG>
+
+what	<WH>
+is	<PP>
+being constructed	<TRG>
+
+who	<WH>
+are	<PP>
+performing	<TRG>
+
+where	<WH>
+do	<PP>
+someone	<SBJ>
+perform	<TRG>
+
+what	<WH>
+was	<PP>
+surrounded	<TRG>
+
+what	<WH>
+surrounded	<TRG>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+hit	<TRG>
+
+what	<WH>
+hit	<TRG>
+something	<OBJ>
+
+when	<WH>
+were	<PP>
+something	<SBJ>
+hit	<TRG>
+
+how much	<WH>
+something	<SBJ>
+hit	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+occur	<TRG>
+
+what	<WH>
+did	<PP>
+did	<SBJ>
+occur	<TRG>
+at	<PP>
+
+who	<WH>
+administered	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+being administered	<TRG>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+being administered	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+being run	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+being run	<TRG>
+by	<PP>
+
+what	<WH>
+was	<PP>
+being owned	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+being owned	<TRG>
+by	<PP>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+became	<TRG>
+
+what	<WH>
+was	<PP>
+made	<TRG>
+
+who	<WH>
+made	<TRG>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+in	<PP>
+
+how much	<WH>
+did	<PP>
+someone	<SBJ>
+played	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+played	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+played	<TRG>
+something	<OBJ>
+
+how much	<WH>
+did	<PP>
+someone	<SBJ>
+scored	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+scored	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+feature	<TRG>
+in	<PP>
+
+who	<WH>
+featured	<TRG>
+in	<PP>
+something	<OBJ>
+
+how much	<WH>
+did	<PP>
+someone	<SBJ>
+feature	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+cutting	<TRG>
+
+where	<WH>
+is	<PP>
+cutting	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+became	<TRG>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+understood	<TRG>
+
+why	<WH>
+is	<PP>
+something	<SBJ>
+understood	<TRG>
+
+what	<WH>
+can	<PP>
+contribute	<TRG>
+something	<OBJ>
+
+how much	<WH>
+can	<PP>
+something	<SBJ>
+contribute	<TRG>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+contribute	<TRG>
+to	<PP>
+
+what	<WH>
+appeared	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+appear	<TRG>
+in	<PP>
+
+how	<WH>
+did	<PP>
+something	<SBJ>
+appear	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+being defined	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+being defined	<TRG>
+as	<PP>
+
+why	<WH>
+is	<PP>
+something	<SBJ>
+being defined	<TRG>
+as	<PP>
+something	<OBJ>
+
+who	<WH>
+saw	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+see	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+see	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+see	<TRG>
+something	<OBJ>
+
+who	<WH>
+obtained	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+obtain	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+obtain	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+obtain	<TRG>
+something	<OBJ>
+
+what	<WH>
+indicated	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+indicated	<TRG>
+
+what	<WH>
+could	<PP>
+carry	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+carry	<TRG>
+
+what	<WH>
+is	<PP>
+explained	<TRG>
+
+what	<WH>
+explains	<TRG>
+something	<OBJ>
+
+who	<WH>
+begun	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+something	<OBJ>
+
+who	<WH>
+is	<PP>
+siphoning	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+siphoning	<TRG>
+
+where	<WH>
+is	<PP>
+someone	<SBJ>
+siphoning	<TRG>
+something	<OBJ>
+
+why	<WH>
+is	<PP>
+someone	<SBJ>
+siphoning	<TRG>
+something	<OBJ>
+
+who	<WH>
+is	<PP>
+creating	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+creating	<TRG>
+
+where	<WH>
+is	<PP>
+someone	<SBJ>
+creating	<TRG>
+something	<OBJ>
+
+how	<WH>
+is	<PP>
+someone	<SBJ>
+creating	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+born	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+born	<TRG>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+born	<TRG>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+born	<TRG>
+
+how	<WH>
+are	<PP>
+coordinates	<TRG>
+
+what	<WH>
+are	<PP>
+coordinates	<TRG>
+
+what	<WH>
+means	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+means	<TRG>
+
+why	<WH>
+does	<PP>
+something	<SBJ>
+means	<TRG>
+something	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+marry	<TRG>
+
+who	<WH>
+married	<TRG>
+someone	<OBJ>
+
+what	<WH>
+continues	<TRG>
+
+what	<WH>
+do	<PP>
+something	<SBJ>
+continue	<TRG>
+to	<PP>
+
+who	<WH>
+was	<PP>
+appointed	<TRG>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+to	<PP>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+
+who	<WH>
+commanded	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+commanded	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+commanded	<TRG>
+by	<PP>
+someone	<OBJ>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+commanded	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+held	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+held	<TRG>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+held	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+held	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+offer	<TRG>
+
+where	<WH>
+are	<PP>
+something	<SBJ>
+offered	<TRG>
+
+what	<WH>
+was	<PP>
+developed	<TRG>
+
+what	<WH>
+is	<PP>
+known	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+known	<TRG>
+as	<PP>
+
+who	<WH>
+is n't	<PP>
+touring	<TRG>
+
+who	<WH>
+offers	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+offer	<TRG>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+offer	<TRG>
+something	<OBJ>
+
+who	<WH>
+started	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+start	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+start	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+writing	<TRG>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+writing	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+touring	<TRG>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+touring	<TRG>
+something	<OBJ>
+
+who	<WH>
+does	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+do	<TRG>
+
+when	<WH>
+does	<PP>
+someone	<SBJ>
+do	<TRG>
+something	<OBJ>
+
+who	<WH>
+are	<PP>
+equipped	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+are	<PP>
+someone	<SBJ>
+equipped	<TRG>
+with	<PP>
+
+what	<WH>
+does n't	<PP>
+justify	<TRG>
+something	<OBJ>
+
+what	<WH>
+does n't	<PP>
+something	<SBJ>
+justify	<TRG>
+
+who	<WH>
+had	<PP>
+been shown	<TRG>
+something	<OBJ>
+
+what	<WH>
+had	<PP>
+something	<SBJ>
+been shown	<TRG>
+
+who	<WH>
+had	<PP>
+been overstretched	<TRG>
+by	<PP>
+something	<OBJ>
+
+what	<WH>
+had	<PP>
+something	<SBJ>
+been overstretched	<TRG>
+by	<PP>
+
+what	<WH>
+had	<PP>
+led	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+had	<PP>
+something	<SBJ>
+led	<TRG>
+to	<PP>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+providing	<TRG>
+
+what	<WH>
+suffered	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+suffer	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+suffer	<TRG>
+
+what	<WH>
+featured	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+feature	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+feature	<TRG>
+something	<OBJ>
+
+who	<WH>
+were	<PP>
+grinning	<TRG>
+
+who	<WH>
+were	<PP>
+playing	<TRG>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+someone	<SBJ>
+playing	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+spell	<TRG>
+out	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+spell	<TRG>
+out	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+bury	<TRG>
+amongst	<PP>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+bury	<TRG>
+something	<OBJ>
+amongst	<PP>
+
+what	<WH>
+were	<PP>
+distributed	<TRG>
+to	<PP>
+someone	<OBJ>
+
+what	<WH>
+were	<PP>
+distributed	<TRG>
+to	<PP>
+someone	<OBJ>
+
+how	<WH>
+were	<PP>
+something	<SBJ>
+distributed	<TRG>
+to	<PP>
+someone	<OBJ>
+
+who	<WH>
+were	<PP>
+distributed	<TRG>
+something	<OBJ>
+
+who	<WH>
+believed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+believe	<TRG>
+
+what	<WH>
+could	<PP>
+be removed	<TRG>
+by	<PP>
+something	<OBJ>
+
+how	<WH>
+could	<PP>
+something	<SBJ>
+be removed	<TRG>
+
+what	<WH>
+were	<PP>
+separated	<TRG>
+from	<PP>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+something	<SBJ>
+separated	<TRG>
+from	<PP>
+
+what	<WH>
+consisted	<TRG>
+of	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+consist	<TRG>
+of	<PP>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+release	<TRG>
+
+who	<WH>
+released	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+release	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+release	<TRG>
+something	<OBJ>
+
+who	<WH>
+returned	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+return	<TRG>
+to	<PP>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+working	<TRG>
+as	<PP>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+working	<TRG>
+as	<PP>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+working	<TRG>
+as	<PP>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+appearing	<TRG>
+as	<PP>
+someone	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+appearing	<TRG>
+as	<PP>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+appearing	<TRG>
+as	<PP>
+someone	<OBJ>
+
+what	<WH>
+would	<PP>
+receive	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+something	<SBJ>
+receive	<TRG>
+
+when	<WH>
+would	<PP>
+something	<SBJ>
+receive	<TRG>
+something	<OBJ>
+
+what	<WH>
+attracted	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+attract	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+attract	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+attract	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+
+who	<WH>
+worked	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+as	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+as	<PP>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+
+who	<WH>
+worked	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+as	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+as	<PP>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+invited	<TRG>
+to	<PP>
+somewhere	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+invited	<TRG>
+to	<PP>
+
+who	<WH>
+influenced	<TRG>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+influence	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+influence	<TRG>
+someone	<OBJ>
+
+who	<WH>
+required	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+require	<TRG>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+require	<TRG>
+something	<OBJ>
+from	<PP>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+referring	<TRG>
+to	<PP>
+
+who	<WH>
+was	<PP>
+referring	<TRG>
+something	<OBJ>
+
+who	<WH>
+refers	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+refer	<TRG>
+to	<PP>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+refer	<TRG>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+delivered	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+deliver	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+deliver	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+drawing	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+drawing	<TRG>
+
+who	<WH>
+was	<PP>
+leaving	<TRG>
+
+who	<WH>
+tried	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+try	<TRG>
+to	<PP>
+do	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+try	<TRG>
+to	<PP>
+do something	<OBJ>
+
+who	<WH>
+found	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+find	<TRG>
+
+who	<WH>
+worked	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+as	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+work	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+equals	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+equal	<TRG>
+to	<PP>
+
+why	<WH>
+does	<PP>
+something	<SBJ>
+equal	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+containing	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+containing	<TRG>
+
+what	<WH>
+ca n't	<PP>
+occur	<TRG>
+
+what	<WH>
+exhibits	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+exhibit	<TRG>
+
+who	<WH>
+batted	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+bat	<TRG>
+something	<OBJ>
+in	<PP>
+
+how much	<WH>
+did	<PP>
+someone	<SBJ>
+bat	<TRG>
+in	<PP>
+somewhere	<OBJ>
+
+what	<WH>
+is	<PP>
+based	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+based	<TRG>
+
+what	<WH>
+demanded	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+demand	<TRG>
+
+what	<WH>
+demanded	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+demand	<TRG>
+
+what	<WH>
+was	<PP>
+used	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+used	<TRG>
+with	<PP>
+
+what	<WH>
+would	<PP>
+operate	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+something	<SBJ>
+operate	<TRG>
+as	<PP>
+
+what	<WH>
+were	<PP>
+combined	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+were	<PP>
+something	<SBJ>
+combined	<TRG>
+with	<PP>
+
+what	<WH>
+might not	<PP>
+someone	<SBJ>
+see	<TRG>
+
+who	<WH>
+might not	<PP>
+see	<TRG>
+someone	<OBJ>
+
+who	<WH>
+grew	<TRG>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+grow	<TRG>
+
+who	<WH>
+seems	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+seem	<TRG>
+
+when	<WH>
+does	<PP>
+someone	<SBJ>
+seem	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+designed	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+designed	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+would	<PP>
+appear	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+something	<SBJ>
+appear	<TRG>
+as	<PP>
+
+who	<WH>
+would	<PP>
+be surfing	<TRG>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+be surfing	<TRG>
+through	<PP>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+happen	<TRG>
+upon	<PP>
+
+who	<WH>
+would	<PP>
+happen	<TRG>
+upon	<PP>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+be recurring	<TRG>
+
+what	<WH>
+was	<PP>
+repeated	<TRG>
+
+who	<WH>
+did	<PP>
+something	<SBJ>
+repeated	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+repeated	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+repeated	<TRG>
+for	<PP>
+
+who	<WH>
+was	<PP>
+deposed	<TRG>
+
+who	<WH>
+might	<PP>
+regain	<TRG>
+something	<OBJ>
+
+what	<WH>
+might	<PP>
+someone	<SBJ>
+regain	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+lead	<TRG>
+to	<PP>
+
+what	<WH>
+led	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+crushed	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+crushed	<TRG>
+
+where	<WH>
+should	<PP>
+someone	<SBJ>
+change	<TRG>
+
+when	<WH>
+should	<PP>
+someone	<SBJ>
+change	<TRG>
+
+who	<WH>
+should	<PP>
+change	<TRG>
+
+who	<WH>
+begins	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+behaved	<TRG>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+behave	<TRG>
+
+who	<WH>
+suggests	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+suggest	<TRG>
+
+who	<WH>
+would	<PP>
+take	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+take	<TRG>
+
+who	<WH>
+would	<PP>
+someone	<SBJ>
+take	<TRG>
+something	<OBJ>
+
+why	<WH>
+would	<PP>
+someone	<SBJ>
+take	<TRG>
+something	<OBJ>
+
+who	<WH>
+would	<PP>
+check	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+check	<TRG>
+
+why	<WH>
+would	<PP>
+someone	<SBJ>
+check	<TRG>
+something	<OBJ>
+
+who	<WH>
+drives	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+drive	<TRG>
+
+why	<WH>
+does	<PP>
+someone	<SBJ>
+drive	<TRG>
+something	<OBJ>
+
+where	<WH>
+would	<PP>
+something	<SBJ>
+be vented	<TRG>
+
+who	<WH>
+tries	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+try	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+explains	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+explain	<TRG>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+explain	<TRG>
+something	<OBJ>
+to	<PP>
+
+who	<WH>
+sponsored	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+sponsored	<TRG>
+by	<PP>
+someone	<OBJ>
+
+what	<WH>
+was	<PP>
+signed	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+signed	<TRG>
+into	<PP>
+
+what	<WH>
+provides	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+provide	<TRG>
+
+who	<WH>
+is	<PP>
+surviving	<TRG>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+die	<TRG>
+
+who	<WH>
+dies	<TRG>
+
+what	<WH>
+is	<PP>
+removed	<TRG>
+
+what	<WH>
+removes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+receive	<TRG>
+
+who	<WH>
+receives	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+killed	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+killed	<TRG>
+
+who	<WH>
+was	<PP>
+serving	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+serving	<TRG>
+
+who	<WH>
+would	<PP>
+have	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+someone	<SBJ>
+have	<TRG>
+
+when	<WH>
+would	<PP>
+someone	<SBJ>
+have	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+begin	<TRG>
+with	<PP>
+
+who	<WH>
+defeated	<TRG>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+defeat	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+defeat	<TRG>
+someone	<OBJ>
+
+who	<WH>
+won	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+something	<OBJ>
+
+who	<WH>
+did n't	<PP>
+win	<TRG>
+something	<OBJ>
+
+what	<WH>
+produces	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+produce	<TRG>
+
+who	<WH>
+deals	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+deal	<TRG>
+with	<PP>
+
+what	<WH>
+are	<PP>
+direct	<TRG>
+
+what	<WH>
+involves	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+involving	<TRG>
+
+what	<WH>
+is	<PP>
+seen	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+seen	<TRG>
+
+what	<WH>
+started	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+start	<TRG>
+
+who	<WH>
+is	<PP>
+charged	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+charged	<TRG>
+with	<PP>
+
+who	<WH>
+will	<PP>
+review	<TRG>
+something	<OBJ>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+review	<TRG>
+
+who	<WH>
+will	<PP>
+something	<SBJ>
+be reviewed	<TRG>
+for	<PP>
+
+who	<WH>
+will	<PP>
+assess	<TRG>
+something	<OBJ>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+assess	<TRG>
+
+who	<WH>
+will	<PP>
+something	<SBJ>
+be assessed	<TRG>
+for	<PP>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+meet	<TRG>
+
+who	<WH>
+will	<PP>
+meet	<TRG>
+something	<OBJ>
+
+who	<WH>
+will	<PP>
+review	<TRG>
+something	<OBJ>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+review	<TRG>
+
+who	<WH>
+will	<PP>
+something	<SBJ>
+be reviewed	<TRG>
+for	<PP>
+
+who	<WH>
+will	<PP>
+oversee	<TRG>
+something	<OBJ>
+
+what	<WH>
+will	<PP>
+someone	<SBJ>
+oversee	<TRG>
+
+who	<WH>
+ordered	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+order	<TRG>
+
+what	<WH>
+would	<PP>
+be reviewed	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+would	<PP>
+review	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+released	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+released	<TRG>
+
+who	<WH>
+continues	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+continue	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+resides	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+reside	<TRG>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+take	<TRG>
+
+what	<WH>
+takes	<TRG>
+something	<OBJ>
+
+who	<WH>
+joined	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+join	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+join	<TRG>
+something	<OBJ>
+
+who	<WH>
+left	<TRG>
+something	<OBJ>
+
+who	<WH>
+released	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+release	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+release	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+following	<TRG>
+
+what	<WH>
+is	<PP>
+following	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+erected	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+erected	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+overlooking	<TRG>
+
+what	<WH>
+is	<PP>
+overlooking	<TRG>
+something	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+erected	<TRG>
+
+what	<WH>
+was	<PP>
+erected	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+erected	<TRG>
+
+what	<WH>
+is	<PP>
+introduced	<TRG>
+
+what	<WH>
+had	<TRG>
+something	<OBJ>
+
+what	<WH>
+had	<PP>
+something	<SBJ>
+had	<TRG>
+
+what	<WH>
+would	<PP>
+be standing	<TRG>
+
+how	<WH>
+would	<PP>
+something	<SBJ>
+be standing	<TRG>
+
+why	<WH>
+would	<PP>
+something	<SBJ>
+be standing	<TRG>
+
+what	<WH>
+would	<PP>
+minimize	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+something	<SBJ>
+minimize	<TRG>
+
+what	<WH>
+is	<PP>
+favored	<TRG>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+being favored	<TRG>
+
+what	<WH>
+come	<TRG>
+something	<OBJ>
+
+how	<WH>
+do	<PP>
+something	<SBJ>
+come	<TRG>
+
+what	<WH>
+is	<PP>
+surrounding	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+surrounded	<TRG>
+
+what	<WH>
+do	<PP>
+surrounding	<TRG>
+something	<OBJ>
+do	<OBJ>
+
+what	<WH>
+merges	<TRG>
+
+when	<WH>
+do	<PP>
+something	<SBJ>
+merge	<TRG>
+
+what	<WH>
+releases	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+released	<TRG>
+
+what	<WH>
+leads	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+do	<PP>
+something	<SBJ>
+lead	<TRG>
+to	<PP>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+of	<PP>
+
+what	<WH>
+was	<PP>
+made	<TRG>
+of	<PP>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+of	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+known	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+known	<TRG>
+for	<PP>
+
+what	<WH>
+based	<TRG>
+around	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+based	<TRG>
+around	<PP>
+
+what	<WH>
+have been modified	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+coupled	<TRG>
+to	<PP>
+
+what	<WH>
+is	<PP>
+coupled	<TRG>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+had	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+have	<TRG>
+
+what	<WH>
+could	<PP>
+someone	<SBJ>
+declare	<TRG>
+
+who	<WH>
+studied	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+study	<TRG>
+
+who	<WH>
+came	<TRG>
+into	<PP>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+come	<TRG>
+into	<PP>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+come	<TRG>
+into	<PP>
+something	<OBJ>
+
+who	<WH>
+matriculated	<TRG>
+at	<PP>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+matriculate	<TRG>
+at	<PP>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+matriculate	<TRG>
+at	<PP>
+
+what	<WH>
+was	<PP>
+released	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+released	<TRG>
+for	<PP>
+
+what	<WH>
+appeared	<TRG>
+in	<PP>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+appear	<TRG>
+
+what	<WH>
+held	<TRG>
+something	<OBJ>
+
+what	<WH>
+has	<PP>
+been held	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+held	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+renamed	<TRG>
+
+what	<WH>
+was	<PP>
+renamed	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+renamed	<TRG>
+
+why	<WH>
+was	<PP>
+something	<SBJ>
+renamed	<TRG>
+something	<OBJ>
+
+who	<WH>
+authored	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+authored	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+authored	<TRG>
+do	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+provide	<TRG>
+
+what	<WH>
+provided	<TRG>
+something	<OBJ>
+
+who	<WH>
+believe	<TRG>
+something	<OBJ>
+
+what	<WH>
+do	<PP>
+someone	<SBJ>
+believe	<TRG>
+something	<OBJ>
+to	<PP>
+
+who	<WH>
+was	<PP>
+born	<TRG>
+to	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+someone	<SBJ>
+born	<TRG>
+to	<PP>
+
+who	<WH>
+noted	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+note	<TRG>
+
+who	<WH>
+described	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+describe	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+describe	<TRG>
+something	<OBJ>
+as	<PP>
+
+who	<WH>
+stumbled	<TRG>
+upon	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+stumble	<TRG>
+upon	<PP>
+
+who	<WH>
+was	<PP>
+preparing	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+preparing	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+was	<PP>
+invaded	<TRG>
+
+who	<WH>
+would	<PP>
+invade	<TRG>
+someone	<OBJ>
+
+who	<WH>
+went	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+go	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+go	<TRG>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+told	<TRG>
+
+who	<WH>
+told	<TRG>
+someone	<OBJ>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+told	<TRG>
+something	<OBJ>
+
+who	<WH>
+left	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+leave	<TRG>
+
+what	<WH>
+was	<PP>
+converted	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+converted	<TRG>
+into	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+converted	<TRG>
+into	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+christened	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+christened	<TRG>
+
+what	<WH>
+re-designated	<TRG>
+something	<OBJ>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+re-designated	<TRG>
+
+what	<WH>
+was	<PP>
+re-designated	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+re-designated	<TRG>
+as	<PP>
+
+what	<WH>
+was n't	<PP>
+christened	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+was n't	<PP>
+something	<SBJ>
+christened	<TRG>
+with	<PP>
+
+what	<WH>
+was	<PP>
+opened	<TRG>
+for	<PP>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+retain	<TRG>
+
+who	<WH>
+retained	<TRG>
+something	<OBJ>
+
+what	<WH>
+has	<PP>
+followed	<TRG>
+
+when	<WH>
+has	<PP>
+something	<SBJ>
+followed	<TRG>
+to	<PP>
+
+how	<WH>
+can	<PP>
+something	<SBJ>
+be dripped	<TRG>
+
+how	<WH>
+can	<PP>
+something	<SBJ>
+be clarified	<TRG>
+
+what	<WH>
+can	<PP>
+be clarified	<TRG>
+
+what	<WH>
+can	<PP>
+be added	<TRG>
+
+what	<WH>
+turns	<TRG>
+something	<OBJ>
+something	<OBJ>
+
+how	<WH>
+does	<PP>
+something	<SBJ>
+turn	<TRG>
+
+what	<WH>
+is	<PP>
+turned	<TRG>
+something	<OBJ>
+
+who	<WH>
+reads	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+read	<TRG>
+
+who	<WH>
+makes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+make	<TRG>
+
+when	<WH>
+does	<PP>
+someone	<SBJ>
+make	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+veiled	<TRG>
+
+what	<WH>
+is	<PP>
+relating	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+relating	<TRG>
+to	<PP>
+
+who	<WH>
+awoke	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+awake	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+awake	<TRG>
+
+what	<WH>
+hit	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+hit	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+hit	<TRG>
+something	<OBJ>
+
+who	<WH>
+stands	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+stand	<TRG>
+in	<PP>
+
+what	<WH>
+is	<PP>
+living	<TRG>
+
+what	<WH>
+is	<PP>
+seen	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+seen	<TRG>
+
+what	<WH>
+was	<PP>
+re-imagined	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+re-imagined	<TRG>
+
+who	<WH>
+published	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+publish	<TRG>
+
+what	<WH>
+conducted	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+conduct	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+conducted	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+conducted	<TRG>
+
+what	<WH>
+entered	<TRG>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+entered	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+enter	<TRG>
+
+who	<WH>
+has	<PP>
+killed	<TRG>
+someone	<OBJ>
+
+who	<WH>
+has	<PP>
+someone	<SBJ>
+killed	<TRG>
+
+why	<WH>
+has	<PP>
+someone	<SBJ>
+killed	<TRG>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+have	<TRG>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+someone	<SBJ>
+have	<TRG>
+
+how	<WH>
+will	<PP>
+someone	<SBJ>
+have	<TRG>
+someone	<OBJ>
+
+who	<WH>
+mentioned	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+mention	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+mention	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+mention	<TRG>
+something	<OBJ>
+
+who	<WH>
+did	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+do	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+do	<TRG>
+something	<OBJ>
+
+who	<WH>
+will	<PP>
+work	<TRG>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+will	<PP>
+someone	<SBJ>
+work	<TRG>
+with	<PP>
+
+when	<WH>
+will	<PP>
+someone	<SBJ>
+work	<TRG>
+with	<PP>
+someone	<OBJ>
+
+what	<WH>
+can	<PP>
+jump	<TRG>
+
+how much	<WH>
+can	<PP>
+something	<SBJ>
+jump	<TRG>
+
+when	<WH>
+would	<PP>
+something	<SBJ>
+jump	<TRG>
+
+what	<WH>
+is	<PP>
+threatened	<TRG>
+
+who	<WH>
+offered	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+offer	<TRG>
+
+who	<WH>
+called	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+call	<TRG>
+in	<PP>
+
+who	<WH>
+pulled	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+pull	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+pull	<TRG>
+something	<OBJ>
+
+what	<WH>
+spans	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+span	<TRG>
+
+who	<WH>
+is	<PP>
+known	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+known	<TRG>
+for	<PP>
+
+who	<WH>
+returned	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+return	<TRG>
+to	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+return	<TRG>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+gained	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+gain	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+gain	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+contained	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+contained	<TRG>
+
+what	<WH>
+is	<PP>
+measured	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+measured	<TRG>
+
+what	<WH>
+began	<TRG>
+
+who	<WH>
+began	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+something	<OBJ>
+
+what	<WH>
+will	<PP>
+be organized	<TRG>
+
+who	<WH>
+has	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+have	<TRG>
+
+why	<WH>
+would	<PP>
+something	<SBJ>
+be promoted	<TRG>
+
+what	<WH>
+would	<PP>
+be promoted	<TRG>
+
+where	<WH>
+would	<PP>
+something	<SBJ>
+be promoted	<TRG>
+
+who	<WH>
+adopted	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+adopt	<TRG>
+
+who	<WH>
+does n't	<PP>
+oppose	<TRG>
+something	<OBJ>
+
+what	<WH>
+does n't	<PP>
+someone	<SBJ>
+oppose	<TRG>
+
+who	<WH>
+criticizes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+criticize	<TRG>
+
+what	<WH>
+depends	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+depend	<TRG>
+on	<PP>
+
+who	<WH>
+provides	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+provide	<TRG>
+
+what	<WH>
+is	<PP>
+dominating	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+dominate	<TRG>
+
+when	<WH>
+does	<PP>
+something	<SBJ>
+dominate	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+renovated	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+renovated	<TRG>
+from	<PP>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+renovated	<TRG>
+
+what	<WH>
+had	<PP>
+come	<TRG>
+under	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+come	<TRG>
+under	<PP>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+come	<TRG>
+under	<PP>
+something	<OBJ>
+
+who	<WH>
+received	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+receive	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+receive	<TRG>
+something	<OBJ>
+in	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+receive	<TRG>
+something	<OBJ>
+from	<PP>
+
+who	<WH>
+was	<PP>
+informed	<TRG>
+of	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+informed	<TRG>
+of	<PP>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+informed	<TRG>
+of	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+ceased	<TRG>
+
+who	<WH>
+was	<PP>
+broadcasting	<TRG>
+
+who	<WH>
+made	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+made	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+live	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+live	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+closed	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+closed	<TRG>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+included	<TRG>
+
+who	<WH>
+can	<PP>
+be classified	<TRG>
+
+how	<WH>
+can	<PP>
+someone	<SBJ>
+be classified	<TRG>
+
+what	<WH>
+is	<PP>
+used	<TRG>
+
+what	<WH>
+includes	<TRG>
+someone	<OBJ>
+
+who	<WH>
+is	<PP>
+included	<TRG>
+
+what	<WH>
+has	<PP>
+been caused	<TRG>
+
+what	<WH>
+has	<PP>
+something	<SBJ>
+been caused	<TRG>
+for	<PP>
+
+what	<WH>
+has	<PP>
+caused	<TRG>
+something	<OBJ>
+
+how	<WH>
+has	<PP>
+someone	<SBJ>
+been executed	<TRG>
+
+where	<WH>
+has	<PP>
+someone	<SBJ>
+being executed	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+drive	<TRG>
+
+what	<WH>
+is	<PP>
+named	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+named	<TRG>
+in	<PP>
+
+what	<WH>
+meant	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+mean	<TRG>
+
+what	<WH>
+would	<PP>
+be deleted	<TRG>
+
+what	<WH>
+would	<PP>
+delete	<TRG>
+something	<OBJ>
+
+what	<WH>
+would	<PP>
+be restarted	<TRG>
+
+when	<WH>
+would	<PP>
+something	<SBJ>
+be restarted	<TRG>
+
+what	<WH>
+was	<PP>
+said	<TRG>
+
+who	<WH>
+assume	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+assume	<TRG>
+
+who	<WH>
+was	<PP>
+appointed	<TRG>
+as	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+as	<PP>
+
+who	<WH>
+combined	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+combine	<TRG>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+something	<OBJ>
+through	<PP>
+
+who	<WH>
+teamed	<TRG>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+team	<TRG>
+with	<PP>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+team	<TRG>
+with	<PP>
+someone	<OBJ>
+
+what	<WH>
+was	<PP>
+defended	<TRG>
+
+who	<WH>
+defended	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+defended	<TRG>
+against	<PP>
+
+what	<WH>
+was	<PP>
+taking	<TRG>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+taking	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+produced	<TRG>
+
+what	<WH>
+produced	<TRG>
+something	<OBJ>
+
+who	<WH>
+got	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+got	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+will	<PP>
+be forgotten	<TRG>
+
+what	<WH>
+was	<PP>
+lifted	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+lifted	<TRG>
+as	<PP>
+
+what	<WH>
+should	<PP>
+be kept	<TRG>
+on	<PP>
+
+who	<WH>
+acquired	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+acquire	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+acquire	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+remaining	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+remaining	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+abandoned	<TRG>
+
+what	<WH>
+was	<PP>
+abandoned	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+abandoned	<TRG>
+
+what	<WH>
+was	<PP>
+sold	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+sold	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+sold	<TRG>
+to	<PP>
+
+what	<WH>
+was	<PP>
+renamed	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+renamed	<TRG>
+to	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+renamed	<TRG>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+approved	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+approved	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+approved	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+approved	<TRG>
+for	<PP>
+
+when	<WH>
+would	<PP>
+something	<SBJ>
+be completed	<TRG>
+by	<PP>
+
+what	<WH>
+would	<PP>
+be completed	<TRG>
+
+who	<WH>
+toured	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+tour	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+earn	<TRG>
+
+who	<WH>
+earned	<TRG>
+something	<OBJ>
+
+what	<WH>
+led	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+lead	<TRG>
+to	<PP>
+
+what	<WH>
+was	<PP>
+improved	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+founded	<TRG>
+
+what	<WH>
+was	<PP>
+founded	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+found	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+named	<TRG>
+after	<PP>
+
+what	<WH>
+was	<PP>
+named	<TRG>
+after	<PP>
+someone	<OBJ>
+
+what	<WH>
+is	<PP>
+connected	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+connected	<TRG>
+with	<PP>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+connected	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+recommended	<TRG>
+
+what	<WH>
+should	<PP>
+someone	<SBJ>
+have	<TRG>
+
+what	<WH>
+results	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+result	<TRG>
+in	<PP>
+
+what	<WH>
+is	<PP>
+portrayed	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+portrayed	<TRG>
+as	<PP>
+
+what	<WH>
+occurs	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+occur	<TRG>
+in	<PP>
+
+who	<WH>
+is	<PP>
+involved	<TRG>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+involved	<TRG>
+in	<PP>
+
+who	<WH>
+live	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+live	<TRG>
+
+what	<WH>
+boomed	<TRG>
+
+how	<WH>
+did	<PP>
+something	<SBJ>
+boom	<TRG>
+
+what	<WH>
+was	<PP>
+formed	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+formed	<TRG>
+
+what	<WH>
+was	<PP>
+opened	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+opened	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+uses	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+use	<TRG>
+
+what	<WH>
+was	<PP>
+described	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+described	<TRG>
+
+what	<WH>
+opened	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+open	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+open	<TRG>
+something	<OBJ>
+
+who	<WH>
+were	<PP>
+buried	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+were	<PP>
+someone	<SBJ>
+buried	<TRG>
+
+who	<WH>
+had	<PP>
+pioneered	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+pioneer	<TRG>
+
+who	<WH>
+survived	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+survive	<TRG>
+
+who	<WH>
+plays	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+play	<TRG>
+
+who	<WH>
+does	<PP>
+someone	<SBJ>
+play	<TRG>
+something	<OBJ>
+for	<PP>
+
+what	<WH>
+was	<PP>
+united	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+united	<TRG>
+with	<PP>
+
+who	<WH>
+began	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+something	<OBJ>
+
+who	<WH>
+awarded	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+award	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+award	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+established	<TRG>
+by	<PP>
+someone	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+established	<TRG>
+
+who	<WH>
+established	<TRG>
+something	<OBJ>
+
+who	<WH>
+served	<TRG>
+as	<PP>
+someone	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+serve	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+serve	<TRG>
+
+who	<WH>
+undertook	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+undertake	<TRG>
+
+what	<WH>
+sought	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+seek	<TRG>
+
+what	<WH>
+would	<PP>
+be obtained	<TRG>
+
+what	<WH>
+was	<PP>
+placed	<TRG>
+under	<PP>
+something	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+placed	<TRG>
+
+who	<WH>
+set	<TRG>
+up	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+set	<TRG>
+up	<PP>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+set	<TRG>
+up	<PP>
+something	<OBJ>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+set	<TRG>
+up	<PP>
+something	<OBJ>
+
+what	<WH>
+fosters	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+foster	<TRG>
+
+who	<WH>
+taught	<TRG>
+somewhere	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+teach	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+teach	<TRG>
+
+who	<WH>
+switched	<TRG>
+over to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+switch	<TRG>
+over to	<PP>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+put	<TRG>
+
+what	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+become	<TRG>
+
+what	<WH>
+is	<PP>
+displayed	<TRG>
+
+what	<WH>
+displays	<TRG>
+something	<OBJ>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+displayed	<TRG>
+
+who	<WH>
+left	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+leave	<TRG>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+leave	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+operates	<TRG>
+upon	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+operate	<TRG>
+upon	<PP>
+
+how	<WH>
+does	<PP>
+something	<SBJ>
+operate	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+based	<TRG>
+upon	<PP>
+
+what	<WH>
+is	<PP>
+based	<TRG>
+upon	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+reserve	<TRG>
+
+what	<WH>
+reserves	<TRG>
+something	<OBJ>
+
+when	<WH>
+does	<PP>
+something	<SBJ>
+reserve	<TRG>
+something	<OBJ>
+
+what	<WH>
+may	<PP>
+establish	<TRG>
+something	<OBJ>
+
+what	<WH>
+may	<PP>
+something	<SBJ>
+establish	<TRG>
+
+when	<WH>
+may	<PP>
+something	<SBJ>
+establish	<TRG>
+something	<OBJ>
+
+what	<WH>
+may	<PP>
+maintain	<TRG>
+something	<OBJ>
+
+what	<WH>
+may	<PP>
+something	<SBJ>
+maintain	<TRG>
+
+when	<WH>
+may	<PP>
+something	<SBJ>
+maintain	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+provided	<TRG>
+
+what	<WH>
+must	<PP>
+coincide	<TRG>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+must	<PP>
+something	<SBJ>
+coincide	<TRG>
+with	<PP>
+
+what	<WH>
+was	<PP>
+played	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+played	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+played	<TRG>
+
+who	<WH>
+are	<PP>
+referred	<TRG>
+to as	<PP>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+someone	<SBJ>
+referred	<TRG>
+to as	<PP>
+
+who	<WH>
+suffered	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+suffer	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+suffer	<TRG>
+something	<OBJ>
+
+what	<WH>
+left	<TRG>
+someone	<OBJ>
+with	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+left	<TRG>
+with	<PP>
+
+what	<WH>
+is	<PP>
+excluded	<TRG>
+
+what	<WH>
+came	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+come	<TRG>
+in	<PP>
+
+who	<WH>
+began	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+begin	<TRG>
+doing something	<OBJ>
+
+who	<WH>
+was	<PP>
+building	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+building	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+build	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+flying	<TRG>
+
+who	<WH>
+would	<PP>
+fly	<TRG>
+something	<OBJ>
+
+why	<WH>
+did n't	<PP>
+someone	<SBJ>
+fly	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+killed	<TRG>
+in	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+killed	<TRG>
+
+what	<WH>
+did n't	<PP>
+someone	<SBJ>
+complete	<TRG>
+
+why	<WH>
+did n't	<PP>
+someone	<SBJ>
+complete	<TRG>
+something	<OBJ>
+
+what	<WH>
+ran	<TRG>
+
+how	<WH>
+did	<PP>
+something	<SBJ>
+run	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+appearing	<TRG>
+
+what	<WH>
+was	<PP>
+appearing	<TRG>
+
+how	<WH>
+was	<PP>
+something	<SBJ>
+ranging	<TRG>
+
+what	<WH>
+was	<PP>
+ranging	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+ranging	<TRG>
+from	<PP>
+
+what	<WH>
+was	<PP>
+founded	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+founded	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+founded	<TRG>
+as	<PP>
+
+who	<WH>
+founded	<TRG>
+something	<OBJ>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+who	<WH>
+is	<PP>
+included	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+move	<TRG>
+
+what	<WH>
+moved	<TRG>
+
+where	<WH>
+did	<PP>
+something	<SBJ>
+move	<TRG>
+to	<PP>
+
+who	<WH>
+was	<PP>
+separated	<TRG>
+from	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+separated	<TRG>
+from	<PP>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+separated	<TRG>
+from	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+separated	<TRG>
+from	<PP>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+sent	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+sent	<TRG>
+to	<PP>
+
+why	<WH>
+was	<PP>
+someone	<SBJ>
+sent	<TRG>
+somewhere	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+sent	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+would	<PP>
+live	<TRG>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+would	<PP>
+someone	<SBJ>
+live	<TRG>
+with	<PP>
+
+why	<WH>
+would	<PP>
+someone	<SBJ>
+live	<TRG>
+with	<PP>
+someone	<OBJ>
+
+how	<WH>
+would	<PP>
+someone	<SBJ>
+live	<TRG>
+with	<PP>
+someone	<OBJ>
+
+where	<WH>
+would	<PP>
+someone	<SBJ>
+live	<TRG>
+with	<PP>
+someone	<OBJ>
+
+when	<WH>
+would	<PP>
+someone	<SBJ>
+live	<TRG>
+with	<PP>
+someone	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+placed	<TRG>
+
+who	<WH>
+was	<PP>
+placed	<TRG>
+somewhere	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+placed	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+was	<PP>
+reunited	<TRG>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+someone	<SBJ>
+reunited	<TRG>
+with	<PP>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+reunited	<TRG>
+with	<PP>
+someone	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+reunited	<TRG>
+with	<PP>
+someone	<OBJ>
+
+who	<WH>
+started	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+start	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+received	<TRG>
+
+who	<WH>
+was	<PP>
+inspired	<TRG>
+
+what	<WH>
+inspired	<TRG>
+someone	<OBJ>
+
+what	<WH>
+was	<PP>
+dubbed	<TRG>
+
+who	<WH>
+built	<TRG>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+build	<TRG>
+
+what	<WH>
+was	<PP>
+build	<TRG>
+
+who	<WH>
+was	<PP>
+known	<TRG>
+
+why	<WH>
+was	<PP>
+someone	<SBJ>
+known	<TRG>
+
+what	<WH>
+obtained	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+obtain	<TRG>
+
+who	<WH>
+was	<PP>
+addressed	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+addressed	<TRG>
+at	<PP>
+
+who	<WH>
+addressed	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+involved	<TRG>
+in	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+involved	<TRG>
+in	<PP>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+involved	<TRG>
+in	<PP>
+something	<OBJ>
+
+who	<WH>
+helped	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+help	<TRG>
+to	<PP>
+do	<OBJ>
+
+what	<WH>
+was	<PP>
+raised	<TRG>
+
+who	<WH>
+raised	<TRG>
+something	<OBJ>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+raised	<TRG>
+
+what	<WH>
+was	<PP>
+terminated	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+terminated	<TRG>
+
+where	<WH>
+was	<PP>
+something	<SBJ>
+terminated	<TRG>
+
+who	<WH>
+founded	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+found	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+found	<TRG>
+
+what	<WH>
+was	<PP>
+erected	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+erected	<TRG>
+into	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+erected	<TRG>
+
+what	<WH>
+can	<PP>
+be applied	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+can	<PP>
+something	<SBJ>
+be applied	<TRG>
+to	<PP>
+
+what	<WH>
+is	<PP>
+turning	<TRG>
+
+who	<WH>
+heads	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+head	<TRG>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+head	<TRG>
+something	<OBJ>
+
+what	<WH>
+do	<PP>
+something	<SBJ>
+operate	<TRG>
+under	<PP>
+
+what	<WH>
+operates	<TRG>
+under	<PP>
+something	<OBJ>
+
+where	<WH>
+does	<PP>
+something	<SBJ>
+operate	<TRG>
+under	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+made	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+for	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+made	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+followed	<TRG>
+
+who	<WH>
+would	<PP>
+be assassinated	<TRG>
+
+when	<WH>
+would	<PP>
+someone	<SBJ>
+be assassinated	<TRG>
+
+who	<WH>
+declared	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+declare	<TRG>
+
+who	<WH>
+closed	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+close	<TRG>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+result	<TRG>
+in	<PP>
+
+what	<WH>
+was n't	<PP>
+allowed	<TRG>
+something	<OBJ>
+
+what	<WH>
+was n't	<PP>
+something	<SBJ>
+allowed	<TRG>
+
+who	<WH>
+permitted	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+permit	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+permit	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+conducted	<TRG>
+by	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+conducted	<TRG>
+by	<PP>
+someone	<OBJ>
+
+who	<WH>
+was	<PP>
+invited	<TRG>
+
+what	<WH>
+could	<PP>
+someone	<SBJ>
+invited	<TRG>
+do	<OBJ>
+
+what	<WH>
+could	<PP>
+someone	<SBJ>
+hear	<TRG>
+
+who	<WH>
+could	<PP>
+hear	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+performed	<TRG>
+
+what	<WH>
+does	<PP>
+lodge	<TRG>
+do	<OBJ>
+
+what	<WH>
+hosts	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+host	<TRG>
+
+what	<WH>
+supports	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+supported	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+supported	<TRG>
+
+who	<WH>
+lodges	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+joined	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+join	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+join	<TRG>
+something	<OBJ>
+as	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+join	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+join	<TRG>
+something	<OBJ>
+
+what	<WH>
+should	<PP>
+be climbed	<TRG>
+
+why	<WH>
+should	<PP>
+something	<SBJ>
+be climbed	<TRG>
+
+what	<WH>
+is	<PP>
+crossed	<TRG>
+
+how	<WH>
+do	<PP>
+someone	<SBJ>
+cross	<TRG>
+something	<OBJ>
+
+what	<WH>
+have been filled	<TRG>
+in	<PP>
+
+what	<WH>
+have	<PP>
+included	<TRG>
+on	<PP>
+something	<OBJ>
+
+what	<WH>
+have	<PP>
+something	<SBJ>
+been included	<TRG>
+on	<PP>
+
+what	<WH>
+has	<PP>
+undergone	<TRG>
+something	<OBJ>
+
+what	<WH>
+has	<PP>
+something	<SBJ>
+undergone	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+undergo	<TRG>
+something	<OBJ>
+
+what	<WH>
+has	<PP>
+created	<TRG>
+something	<OBJ>
+
+what	<WH>
+has	<PP>
+something	<SBJ>
+created	<TRG>
+
+what	<WH>
+has	<PP>
+something	<SBJ>
+created	<TRG>
+something	<OBJ>
+for	<PP>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+covering	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+covered	<TRG>
+for	<PP>
+
+why	<WH>
+might	<PP>
+someone	<SBJ>
+be boating	<TRG>
+
+what	<WH>
+offers	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+offer	<TRG>
+
+what	<WH>
+are	<PP>
+recommended	<TRG>
+
+what	<WH>
+is	<PP>
+something	<SBJ>
+based	<TRG>
+upon	<PP>
+
+what	<WH>
+is	<PP>
+based	<TRG>
+upon	<PP>
+something	<OBJ>
+
+what	<WH>
+illustrates	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+illustrated	<TRG>
+
+who	<WH>
+should	<PP>
+achieve	<TRG>
+something	<OBJ>
+
+what	<WH>
+should	<PP>
+someone	<SBJ>
+achieve	<TRG>
+
+when	<WH>
+should	<PP>
+someone	<SBJ>
+achieve	<TRG>
+something	<OBJ>
+
+why	<WH>
+should	<PP>
+someone	<SBJ>
+achieve	<TRG>
+something	<OBJ>
+
+who	<WH>
+might	<PP>
+undertake	<TRG>
+something	<OBJ>
+
+what	<WH>
+might	<PP>
+someone	<SBJ>
+undertake	<TRG>
+
+who	<WH>
+made	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+make	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+make	<TRG>
+something	<OBJ>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+make	<TRG>
+something	<OBJ>
+
+what	<WH>
+toured	<TRG>
+somewhere	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+tour	<TRG>
+
+what	<WH>
+belonged	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+belong	<TRG>
+to	<PP>
+
+what	<WH>
+opened	<TRG>
+
+when	<WH>
+did	<PP>
+something	<SBJ>
+open	<TRG>
+
+what	<WH>
+occupied	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+occupy	<TRG>
+
+what	<WH>
+was	<PP>
+turned	<TRG>
+into	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+turned	<TRG>
+into	<PP>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+turned	<TRG>
+into	<PP>
+something	<OBJ>
+
+who	<WH>
+ran	<TRG>
+for	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+run	<TRG>
+for	<PP>
+
+how much	<WH>
+did	<PP>
+someone	<SBJ>
+run	<TRG>
+for	<PP>
+something	<OBJ>
+
+who	<WH>
+won	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+something	<OBJ>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+win	<TRG>
+something	<OBJ>
+
+what	<WH>
+does n't	<PP>
+influence	<TRG>
+someone	<OBJ>
+
+who	<WH>
+does n't	<PP>
+something	<SBJ>
+influence	<TRG>
+
+how	<WH>
+does n't	<PP>
+something	<SBJ>
+influence	<TRG>
+someone	<OBJ>
+
+who	<WH>
+remained	<TRG>
+
+how	<WH>
+did	<PP>
+someone	<SBJ>
+remain	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+remain	<TRG>
+
+who	<WH>
+married	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+marry	<TRG>
+
+who	<WH>
+occupied	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+occupy	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+occupy	<TRG>
+something	<OBJ>
+
+who	<WH>
+were	<PP>
+knocked	<TRG>
+out	<PP>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+knocked	<TRG>
+of	<PP>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+knocked	<TRG>
+of	<PP>
+something	<OBJ>
+
+who	<WH>
+ascends	<TRG>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+ascend	<TRG>
+through	<PP>
+
+what	<WH>
+becomes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+become	<TRG>
+
+what	<WH>
+becomes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+become	<TRG>
+
+what	<WH>
+is	<PP>
+understood	<TRG>
+
+how	<WH>
+is	<PP>
+something	<SBJ>
+understood	<TRG>
+
+when	<WH>
+is	<PP>
+something	<SBJ>
+understood	<TRG>
+
+what	<WH>
+uses	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+use	<TRG>
+
+who	<WH>
+walks	<TRG>
+somewhere	<OBJ>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+walk	<TRG>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+walk	<TRG>
+through	<PP>
+
+why	<WH>
+does	<PP>
+someone	<SBJ>
+walk	<TRG>
+somewhere	<OBJ>
+
+who	<WH>
+takes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+take	<TRG>
+
+where	<WH>
+does	<PP>
+someone	<SBJ>
+take	<TRG>
+something	<OBJ>
+
+what	<WH>
+is	<PP>
+flying	<TRG>
+
+where	<WH>
+is	<PP>
+something	<SBJ>
+flying	<TRG>
+
+what	<WH>
+was	<PP>
+held	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+held	<TRG>
+
+what	<WH>
+houses	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+house	<TRG>
+
+when	<WH>
+does	<PP>
+something	<SBJ>
+house	<TRG>
+something	<OBJ>
+
+who	<WH>
+helps	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+help	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+maintains	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+maintain	<TRG>
+
+who	<WH>
+was	<PP>
+named	<TRG>
+as	<PP>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+named	<TRG>
+as	<PP>
+
+how	<WH>
+was	<PP>
+someone	<SBJ>
+named	<TRG>
+as	<PP>
+something	<OBJ>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+named	<TRG>
+as	<PP>
+something	<OBJ>
+
+where	<WH>
+was	<PP>
+someone	<SBJ>
+named	<TRG>
+as	<PP>
+something	<OBJ>
+
+who	<WH>
+played	<TRG>
+for	<PP>
+someone	<OBJ>
+
+who	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+for	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+for	<PP>
+someone	<OBJ>
+
+what	<WH>
+did	<PP>
+something	<SBJ>
+include	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+included	<TRG>
+in	<PP>
+
+who	<WH>
+scored	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+score	<TRG>
+
+who	<WH>
+became	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+become	<TRG>
+something	<OBJ>
+
+who	<WH>
+played	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+something	<OBJ>
+for	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+play	<TRG>
+something	<OBJ>
+
+who	<WH>
+returned	<TRG>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+return	<TRG>
+from	<PP>
+
+who	<WH>
+caught	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+catch	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+catch	<TRG>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+catch	<TRG>
+something	<OBJ>
+from	<PP>
+
+why	<WH>
+did	<PP>
+someone	<SBJ>
+catch	<TRG>
+something	<OBJ>
+
+who	<WH>
+beat	<TRG>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+beat	<TRG>
+
+how much	<WH>
+did	<PP>
+someone	<SBJ>
+beat	<TRG>
+something	<OBJ>
+by	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+beat	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+released	<TRG>
+
+when	<WH>
+was	<PP>
+something	<SBJ>
+released	<TRG>
+
+what	<WH>
+was	<PP>
+something	<SBJ>
+released	<TRG>
+on	<PP>
+
+what	<WH>
+features	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+feature	<TRG>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+feature	<TRG>
+something	<OBJ>
+by	<PP>
+
+who	<WH>
+belonged	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+did	<PP>
+someone	<SBJ>
+belong	<TRG>
+to	<PP>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+belong	<TRG>
+to	<PP>
+something	<OBJ>
+
+where	<WH>
+did	<PP>
+someone	<SBJ>
+belong	<TRG>
+to	<PP>
+something	<OBJ>
+
+who	<WH>
+stayed	<TRG>
+
+when	<WH>
+did	<PP>
+someone	<SBJ>
+stay	<TRG>
+
+who	<WH>
+was	<PP>
+appointed	<TRG>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+
+who	<WH>
+was	<PP>
+appointed	<TRG>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+appointed	<TRG>
+
+who	<WH>
+was	<PP>
+knighted	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+knighted	<TRG>
+
+who	<WH>
+was	<PP>
+made	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+made	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+made	<TRG>
+something	<OBJ>
+
+who	<WH>
+was	<PP>
+awarded	<TRG>
+something	<OBJ>
+
+what	<WH>
+was	<PP>
+someone	<SBJ>
+awarded	<TRG>
+
+when	<WH>
+was	<PP>
+someone	<SBJ>
+awarded	<TRG>
+something	<OBJ>
+
+what	<WH>
+includes	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+include	<TRG>
+
+who	<WH>
+belongs	<TRG>
+to	<PP>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+belong	<TRG>
+to	<PP>
+
+who	<WH>
+did n't	<PP>
+answer	<TRG>
+something	<OBJ>
+
+what	<WH>
+did n't	<PP>
+someone	<SBJ>
+answer	<TRG>
+
+who	<WH>
+suspects	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+suspect	<TRG>
+
+what	<WH>
+shares	<TRG>
+something	<OBJ>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+share	<TRG>
+
+what	<WH>
+does	<PP>
+something	<SBJ>
+share	<TRG>
+something	<OBJ>
+with	<PP>
+
+what	<WH>
+follows	<TRG>
+someone	<OBJ>
+
+who	<WH>
+does	<PP>
+something	<SBJ>
+follow	<TRG>
+
+when	<WH>
+does	<PP>
+something	<SBJ>
+follow	<TRG>
+someone	<OBJ>
+
+who	<WH>
+tries	<TRG>
+to	<PP>
+do something	<OBJ>
+
+what	<WH>
+does	<PP>
+someone	<SBJ>
+try	<TRG>
+to	<PP>
+do	<OBJ>
+
+who	<WH>
+might	<PP>
+woo	<TRG>
+someone	<OBJ>
+
+who	<WH>
+might	<PP>
+someone	<SBJ>
+woo	<TRG>
+
+how	<WH>
+might	<PP>
+someone	<SBJ>
+woo	<TRG>
+someone	<OBJ>
+

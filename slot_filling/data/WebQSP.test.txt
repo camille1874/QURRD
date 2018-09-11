@@ -1,0 +1,11199 @@
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+who	<PAD>
+plays	<PAD>
+ken	<PAD>
+barlow	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+else	<PAD>
+did	<PAD>
+someone	<PAD>
+invent	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+
+who	<PAD>
+is	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+2011	<PAD>
+
+who	<PAD>
+was	<PAD>
+vice	<PAD>
+president	<PAD>
+after	<PAD>
+someone	<PAD>
+died	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+part	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+my	<PAD>
+timezone	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+st	<PAD>
+someone	<PAD>
+do	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+dad	<PAD>
+
+what	<PAD>
+kind	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+town	<PAD>
+was	<PAD>
+someone	<PAD>
+assassinated	<PAD>
+in	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+today	<PAD>
+in	<PAD>
+someone	<PAD>
+with	<PAD>
+kids	<PAD>
+
+what	<PAD>
+electorate	<PAD>
+does	<PAD>
+someone	<PAD>
+represent	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+started	<PAD>
+playing	<PAD>
+tennis	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+called	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+sign	<PAD>
+with	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+highschool	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+wife	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+on	<PAD>
+a	<PAD>
+world	<PAD>
+map	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+songs	<PAD>
+that	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+state	<PAD>
+flower	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+and	<PAD>
+raised	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+president	<PAD>
+someone	<PAD>
+take	<PAD>
+office	<PAD>
+
+where	<PAD>
+someone	<PAD>
+was	<PAD>
+born	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+based	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+people	<PAD>
+believe	<PAD>
+in	<PAD>
+
+who	<PAD>
+will	<PAD>
+play	<PAD>
+someone	<PAD>
+in	<PAD>
+the	<PAD>
+film	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+of	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+someone	<PAD>
+control	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+first	<PAD>
+play	<PAD>
+for	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+open	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+religions	<PAD>
+practiced	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+killed	<PAD>
+with	<PAD>
+
+who	<PAD>
+was	<PAD>
+vp	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+other	<PAD>
+books	<PAD>
+did	<PAD>
+someone	<PAD>
+write	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+first	<PAD>
+dictator	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+currency	<PAD>
+of	<PAD>
+someone	<PAD>
+called	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+who	<PAD>
+plays	<PAD>
+the	<PAD>
+voice	<PAD>
+of	<PAD>
+kitt	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+what	<PAD>
+battles	<PAD>
+did	<PAD>
+someone	<PAD>
+fight	<PAD>
+in	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+tribe	<PAD>
+speak	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+married	<PAD>
+to	<PAD>
+
+what	<PAD>
+disease	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+from	<PAD>
+
+what	<PAD>
+works	<PAD>
+of	<PAD>
+art	<PAD>
+did	<PAD>
+someone	<PAD>
+produce	<PAD>
+
+what	<PAD>
+capital	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+which	<PAD>
+countries	<PAD>
+speak	<PAD>
+someone	<PAD>
+officially	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+sing	<PAD>
+
+who	<PAD>
+are	<PAD>
+someone	<PAD>
+representatives	<PAD>
+
+which	<PAD>
+country	<PAD>
+does	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+mom	<PAD>
+name	<PAD>
+
+what	<PAD>
+do	<PAD>
+you	<PAD>
+call	<PAD>
+someone	<PAD>
+writing	<PAD>
+system	<PAD>
+
+who	<PAD>
+played	<PAD>
+on	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+newspaper	<PAD>
+
+what	<PAD>
+continent	<PAD>
+does	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+of	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+title	<PAD>
+of	<PAD>
+the	<PAD>
+book	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+songs	<PAD>
+does	<PAD>
+someone	<PAD>
+sing	<PAD>
+
+who	<PAD>
+was	<PAD>
+vice	<PAD>
+president	<PAD>
+when	<PAD>
+someone	<PAD>
+was	<PAD>
+president	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+language	<PAD>
+called	<PAD>
+
+what	<PAD>
+language	<PAD>
+is	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+today	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+batgirl	<PAD>
+
+what	<PAD>
+basketball	<PAD>
+teams	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+for	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+people	<PAD>
+from	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+who	<PAD>
+did	<PAD>
+armie	<PAD>
+hammer	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+role	<PAD>
+in	<PAD>
+the	<PAD>
+declaration	<PAD>
+of	<PAD>
+independence	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+book	<PAD>
+written	<PAD>
+by	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+college	<PAD>
+football	<PAD>
+for	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+football	<PAD>
+for	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+the	<PAD>
+voice	<PAD>
+of	<PAD>
+someone	<PAD>
+in	<PAD>
+episode	<PAD>
+3	<PAD>
+
+who	<PAD>
+fought	<PAD>
+in	<PAD>
+someone	<PAD>
+1991	<PAD>
+
+who	<PAD>
+plays	<PAD>
+london	<PAD>
+tipton	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2011	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+all	<PAD>
+does	<PAD>
+someone	<PAD>
+now	<PAD>
+do	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+sons	<PAD>
+names	<PAD>
+
+who	<PAD>
+wrote	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+of	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+
+who	<PAD>
+inspired	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+wife	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grow	<PAD>
+up	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+books	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+four	<PAD>
+main	<PAD>
+languages	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+headquarters	<PAD>
+located	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+father	<PAD>
+in	<PAD>
+the	<PAD>
+hobbit	<PAD>
+
+who	<PAD>
+developed	<PAD>
+someone	<PAD>
+ip	<PAD>
+reference	<PAD>
+model	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+own	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+state	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+sights	<PAD>
+to	<PAD>
+see	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+instruments	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+someone	<PAD>
+elected	<PAD>
+
+what	<PAD>
+time	<PAD>
+zone	<PAD>
+am	<PAD>
+i	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+time	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+conduct	<PAD>
+his	<PAD>
+research	<PAD>
+
+what	<PAD>
+university	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+
+what	<PAD>
+countries	<PAD>
+does	<PAD>
+someone	<PAD>
+share	<PAD>
+borders	<PAD>
+with	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+the	<PAD>
+superbowl	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+become	<PAD>
+famous	<PAD>
+for	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+education	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+its	<PAD>
+name	<PAD>
+from	<PAD>
+
+what	<PAD>
+document	<PAD>
+did	<PAD>
+someone	<PAD>
+write	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+three	<PAD>
+official	<PAD>
+languages	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+lord	<PAD>
+of	<PAD>
+the	<PAD>
+rings	<PAD>
+
+what	<PAD>
+airport	<PAD>
+do	<PAD>
+you	<PAD>
+fly	<PAD>
+into	<PAD>
+to	<PAD>
+get	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+do	<PAD>
+you	<PAD>
+call	<PAD>
+members	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+part	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+college	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+father	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+buried	<PAD>
+
+what	<PAD>
+artistic	<PAD>
+movement	<PAD>
+did	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+where	<PAD>
+someone	<PAD>
+ends	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+currency	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+husband	<PAD>
+
+what	<PAD>
+state	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+in	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+who	<PAD>
+rules	<PAD>
+someone	<PAD>
+right	<PAD>
+now	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+study	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+region	<PAD>
+of	<PAD>
+the	<PAD>
+world	<PAD>
+is	<PAD>
+someone	<PAD>
+associated	<PAD>
+with	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+wikianswers	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+indians	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+guitar	<PAD>
+did	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+what	<PAD>
+places	<PAD>
+make	<PAD>
+up	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+now	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+location	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+select	<PAD>
+as	<PAD>
+his	<PAD>
+vice	<PAD>
+president	<PAD>
+when	<PAD>
+he	<PAD>
+became	<PAD>
+president	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+currency	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+capital	<PAD>
+of	<PAD>
+modern	<PAD>
+someone	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+position	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+world	<PAD>
+map	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+near	<PAD>
+someone	<PAD>
+
+which	<PAD>
+states	<PAD>
+does	<PAD>
+someone	<PAD>
+run	<PAD>
+through	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+date	<PAD>
+
+which	<PAD>
+continents	<PAD>
+were	<PAD>
+part	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+located	<PAD>
+on	<PAD>
+a	<PAD>
+map	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+follow	<PAD>
+
+in	<PAD>
+which	<PAD>
+continent	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+world	<PAD>
+map	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+state	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+were	<PAD>
+someone	<PAD>
+located	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+join	<PAD>
+mlb	<PAD>
+
+what	<PAD>
+countries	<PAD>
+have	<PAD>
+someone	<PAD>
+as	<PAD>
+the	<PAD>
+national	<PAD>
+language	<PAD>
+
+what	<PAD>
+to	<PAD>
+see	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+does	<PAD>
+someone	<PAD>
+go	<PAD>
+through	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+draft	<PAD>
+in	<PAD>
+2011	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+originate	<PAD>
+from	<PAD>
+
+what	<PAD>
+colleges	<PAD>
+did	<PAD>
+someone	<PAD>
+teach	<PAD>
+at	<PAD>
+
+who	<PAD>
+plays	<PAD>
+the	<PAD>
+voice	<PAD>
+of	<PAD>
+brian	<PAD>
+on	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+as	<PAD>
+a	<PAD>
+child	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+the	<PAD>
+first	<PAD>
+someone	<PAD>
+held	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+inventions	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+state	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+cause	<PAD>
+of	<PAD>
+death	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+follow	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+currency	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+educated	<PAD>
+
+what	<PAD>
+countries	<PAD>
+included	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+in	<PAD>
+the	<PAD>
+world	<PAD>
+speak	<PAD>
+someone	<PAD>
+
+where	<PAD>
+someone	<PAD>
+went	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+primary	<PAD>
+language	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+leader	<PAD>
+during	<PAD>
+world	<PAD>
+war	<PAD>
+ii	<PAD>
+
+which	<PAD>
+of	<PAD>
+the	<PAD>
+following	<PAD>
+does	<PAD>
+someone	<PAD>
+export	<PAD>
+the	<PAD>
+most	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+known	<PAD>
+for	<PAD>
+
+what	<PAD>
+tv	<PAD>
+shows	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+for	<PAD>
+currency	<PAD>
+
+which	<PAD>
+airport	<PAD>
+to	<PAD>
+fly	<PAD>
+into	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+there	<PAD>
+to	<PAD>
+do	<PAD>
+for	<PAD>
+fun	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+raised	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+someone	<PAD>
+rookie	<PAD>
+season	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+start	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+monarchy	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+'s	<PAD>
+parents	<PAD>
+come	<PAD>
+from	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+return	<PAD>
+to	<PAD>
+the	<PAD>
+nba	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+located	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+husband	<PAD>
+
+who	<PAD>
+'s	<PAD>
+dating	<PAD>
+someone	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+sports	<PAD>
+do	<PAD>
+someone	<PAD>
+play	<PAD>
+
+which	<PAD>
+countries	<PAD>
+share	<PAD>
+a	<PAD>
+border	<PAD>
+with	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+language	<PAD>
+originate	<PAD>
+from	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+movies	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+when	<PAD>
+do	<PAD>
+someone	<PAD>
+ii	<PAD>
+end	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+graduate	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+now	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+today	<PAD>
+
+what	<PAD>
+time	<PAD>
+zone	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+the	<PAD>
+world	<PAD>
+series	<PAD>
+
+who	<PAD>
+is	<PAD>
+sir	<PAD>
+someone	<PAD>
+
+what	<PAD>
+were	<PAD>
+someone	<PAD>
+'s	<PAD>
+achievements	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+official	<PAD>
+colors	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+children	<PAD>
+names	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+head	<PAD>
+coach	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+married	<PAD>
+to	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+money	<PAD>
+should	<PAD>
+i	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+headquarters	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+in	<PAD>
+star	<PAD>
+trek	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+2012	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+country	<PAD>
+singer	<PAD>
+someone	<PAD>
+born	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+become	<PAD>
+famous	<PAD>
+for	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+import	<PAD>
+from	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+import	<PAD>
+from	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+money	<PAD>
+of	<PAD>
+someone	<PAD>
+called	<PAD>
+
+what	<PAD>
+do	<PAD>
+people	<PAD>
+in	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+has	<PAD>
+someone	<PAD>
+acted	<PAD>
+in	<PAD>
+
+what	<PAD>
+movies	<PAD>
+did	<PAD>
+someone	<PAD>
+director	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+from	<PAD>
+
+what	<PAD>
+two	<PAD>
+continents	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+was	<PAD>
+formed	<PAD>
+when	<PAD>
+someone	<PAD>
+unified	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+built	<PAD>
+
+what	<PAD>
+movies	<PAD>
+did	<PAD>
+someone	<PAD>
+star	<PAD>
+in	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+affairs	<PAD>
+with	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+money	<PAD>
+to	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+currency	<PAD>
+should	<PAD>
+you	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+for	<PAD>
+kids	<PAD>
+
+what	<PAD>
+do	<PAD>
+they	<PAD>
+call	<PAD>
+money	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+nationality	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+son	<PAD>
+
+what	<PAD>
+countries	<PAD>
+share	<PAD>
+borders	<PAD>
+with	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+have	<PAD>
+someone	<PAD>
+as	<PAD>
+their	<PAD>
+official	<PAD>
+language	<PAD>
+
+what	<PAD>
+international	<PAD>
+organizations	<PAD>
+is	<PAD>
+someone	<PAD>
+part	<PAD>
+of	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+who	<PAD>
+does	<PAD>
+donnie	<PAD>
+wahlberg	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+the	<PAD>
+sixth	<PAD>
+sense	<PAD>
+
+what	<PAD>
+did	<PAD>
+baron	<PAD>
+de	<PAD>
+someone	<PAD>
+influence	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+who	<PAD>
+owns	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+design	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+art	<PAD>
+movement	<PAD>
+did	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+airport	<PAD>
+is	<PAD>
+near	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+and	<PAD>
+see	<PAD>
+in	<PAD>
+someone	<PAD>
+austria	<PAD>
+
+when	<PAD>
+did	<PAD>
+conflict	<PAD>
+start	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+there	<PAD>
+to	<PAD>
+do	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+makes	<PAD>
+someone	<PAD>
+famous	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+major	<PAD>
+languages	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+artist	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+first	<PAD>
+book	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+books	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+
+what	<PAD>
+year	<PAD>
+does	<PAD>
+someone	<PAD>
+die	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+volcano	<PAD>
+
+what	<PAD>
+shows	<PAD>
+are	<PAD>
+shot	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+book	<PAD>
+did	<PAD>
+someone	<PAD>
+write	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+write	<PAD>
+in	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+
+how	<PAD>
+deep	<PAD>
+is	<PAD>
+someone	<PAD>
+oakland	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+important	<PAD>
+holidays	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+the	<PAD>
+toronto	<PAD>
+maple	<PAD>
+leafs	<PAD>
+were	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+2010	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+two	<PAD>
+official	<PAD>
+languages	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+state	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+school	<PAD>
+colors	<PAD>
+for	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+disease	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+capital	<PAD>
+city	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+slipknot	<PAD>
+
+what	<PAD>
+does	<PAD>
+joey	<PAD>
+jordison	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+first	<PAD>
+team	<PAD>
+
+who	<PAD>
+fought	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+coach	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+first	<PAD>
+president	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grow	<PAD>
+up	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+major	<PAD>
+cities	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+2011	<PAD>
+
+what	<PAD>
+movies	<PAD>
+did	<PAD>
+someone	<PAD>
+star	<PAD>
+in	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+league	<PAD>
+are	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+someone	<PAD>
+represent	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+what	<PAD>
+happened	<PAD>
+in	<PAD>
+someone	<PAD>
+in	<PAD>
+the	<PAD>
+90s	<PAD>
+
+when	<PAD>
+'s	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+superbowl	<PAD>
+
+where	<PAD>
+someone	<PAD>
+is	<PAD>
+spoken	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+states	<PAD>
+make	<PAD>
+up	<PAD>
+someone	<PAD>
+us	<PAD>
+
+what	<PAD>
+instruments	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+married	<PAD>
+
+who	<PAD>
+has	<PAD>
+played	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+start	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+time	<PAD>
+
+where	<PAD>
+did	<PAD>
+they	<PAD>
+find	<PAD>
+someone	<PAD>
+'s	<PAD>
+body	<PAD>
+
+what	<PAD>
+university	<PAD>
+did	<PAD>
+someone	<PAD>
+graduated	<PAD>
+from	<PAD>
+
+where	<PAD>
+is	<PAD>
+the	<PAD>
+time	<PAD>
+zone	<PAD>
+line	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+killed	<PAD>
+someone	<PAD>
+
+what	<PAD>
+industry	<PAD>
+does	<PAD>
+someone	<PAD>
+operate	<PAD>
+in	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+music	<PAD>
+period	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+in	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+system	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+national	<PAD>
+flower	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+accomplish	<PAD>
+
+what	<PAD>
+languages	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+drafted	<PAD>
+
+what	<PAD>
+part	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+star	<PAD>
+trek	<PAD>
+
+what	<PAD>
+part	<PAD>
+did	<PAD>
+winona	<PAD>
+ryder	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+kill	<PAD>
+himself	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+time	<PAD>
+is	<PAD>
+it	<PAD>
+in	<PAD>
+texas	<PAD>
+someone	<PAD>
+right	<PAD>
+now	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+star	<PAD>
+wars	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+political	<PAD>
+structure	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+airport	<PAD>
+
+what	<PAD>
+language	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+episode	<PAD>
+2	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+currency	<PAD>
+is	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+originate	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2003	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+2011	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+twilight	<PAD>
+
+who	<PAD>
+played	<PAD>
+jacob	<PAD>
+black	<PAD>
+in	<PAD>
+someone	<PAD>
+
+when	<PAD>
+was	<PAD>
+someone	<PAD>
+elected	<PAD>
+
+which	<PAD>
+airport	<PAD>
+to	<PAD>
+fly	<PAD>
+into	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+college	<PAD>
+
+where	<PAD>
+does	<PAD>
+name	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+money	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+mary	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+who	<PAD>
+plays	<PAD>
+stephanie	<PAD>
+plum	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+the	<PAD>
+ancient	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+sing	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+father	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+attack	<PAD>
+
+what	<PAD>
+language	<PAD>
+is	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+acts	<PAD>
+chapter	<PAD>
+8	<PAD>
+
+what	<PAD>
+the	<PAD>
+time	<PAD>
+zone	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+best	<PAD>
+currency	<PAD>
+to	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+system	<PAD>
+of	<PAD>
+government	<PAD>
+is	<PAD>
+practiced	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+were	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+most	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+situated	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+house	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+government	<PAD>
+system	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+money	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+largest	<PAD>
+nation	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+the	<PAD>
+first	<PAD>
+someone	<PAD>
+fought	<PAD>
+
+who	<PAD>
+are	<PAD>
+the	<PAD>
+senators	<PAD>
+of	<PAD>
+someone	<PAD>
+2013	<PAD>
+
+what	<PAD>
+band	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+country	<PAD>
+borders	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+most	<PAD>
+known	<PAD>
+for	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+style	<PAD>
+of	<PAD>
+music	<PAD>
+does	<PAD>
+someone	<PAD>
+perform	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+mascot	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+second	<PAD>
+biggest	<PAD>
+state	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+what	<PAD>
+are	<PAD>
+all	<PAD>
+the	<PAD>
+movies	<PAD>
+someone	<PAD>
+has	<PAD>
+been	<PAD>
+in	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+of	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+wife	<PAD>
+
+what	<PAD>
+money	<PAD>
+do	<PAD>
+i	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+guitar	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+official	<PAD>
+languages	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+radio	<PAD>
+show	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+most	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+money	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+rehab	<PAD>
+for	<PAD>
+
+when	<PAD>
+is	<PAD>
+someone	<PAD>
+celebrated	<PAD>
+
+what	<PAD>
+government	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+instrument	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+who	<PAD>
+voiced	<PAD>
+someone	<PAD>
+
+when	<PAD>
+was	<PAD>
+someone	<PAD>
+president	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+playing	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+az	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+start	<PAD>
+playing	<PAD>
+for	<PAD>
+the	<PAD>
+eagles	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+state	<PAD>
+senator	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+7	<PAD>
+countries	<PAD>
+that	<PAD>
+are	<PAD>
+part	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+drafted	<PAD>
+by	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+moving	<PAD>
+to	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+executed	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+to	<PAD>
+become	<PAD>
+famous	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+received	<PAD>
+his	<PAD>
+doctorate	<PAD>
+degree	<PAD>
+from	<PAD>
+
+where	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+rule	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+wars	<PAD>
+did	<PAD>
+someone	<PAD>
+served	<PAD>
+in	<PAD>
+
+what	<PAD>
+someone	<PAD>
+language	<PAD>
+called	<PAD>
+
+who	<PAD>
+is	<PAD>
+in	<PAD>
+charge	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+start	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+disease	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+when	<PAD>
+is	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+a	<PAD>
+superbowl	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+style	<PAD>
+of	<PAD>
+music	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+inventions	<PAD>
+did	<PAD>
+someone	<PAD>
+invent	<PAD>
+list	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+part	<PAD>
+of	<PAD>
+the	<PAD>
+country	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+money	<PAD>
+to	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+degrees	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+in	<PAD>
+college	<PAD>
+
+who	<PAD>
+were	<PAD>
+someone	<PAD>
+'s	<PAD>
+siblings	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+last	<PAD>
+win	<PAD>
+the	<PAD>
+champions	<PAD>
+league	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+killed	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2012	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+jr	<PAD>
+go	<PAD>
+to	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+start	<PAD>
+
+what	<PAD>
+were	<PAD>
+the	<PAD>
+names	<PAD>
+of	<PAD>
+someone	<PAD>
+'s	<PAD>
+three	<PAD>
+children	<PAD>
+
+what	<PAD>
+was	<PAD>
+queen	<PAD>
+someone	<PAD>
+childhood	<PAD>
+nickname	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grow	<PAD>
+up	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+have	<PAD>
+someone	<PAD>
+as	<PAD>
+the	<PAD>
+official	<PAD>
+language	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+began	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+on	<PAD>
+vampire	<PAD>
+diaries	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+bisect	<PAD>
+
+what	<PAD>
+nationality	<PAD>
+is	<PAD>
+someone	<PAD>
+jacob	<PAD>
+black	<PAD>
+
+what	<PAD>
+animal	<PAD>
+represents	<PAD>
+someone	<PAD>
+
+what	<PAD>
+company	<PAD>
+does	<PAD>
+someone	<PAD>
+own	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+join	<PAD>
+the	<PAD>
+nba	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+characters	<PAD>
+does	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+the	<PAD>
+state	<PAD>
+of	<PAD>
+someone	<PAD>
+and	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+languages	<PAD>
+are	<PAD>
+there	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+the	<PAD>
+bulls	<PAD>
+get	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+where	<PAD>
+does	<PAD>
+princess	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+famous	<PAD>
+people	<PAD>
+are	<PAD>
+from	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+art	<PAD>
+did	<PAD>
+someone	<PAD>
+make	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+what	<PAD>
+other	<PAD>
+movies	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+what	<PAD>
+political	<PAD>
+party	<PAD>
+does	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+currency	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+hispanic	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+married	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+money	<PAD>
+called	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+michigan	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+president	<PAD>
+of	<PAD>
+someone	<PAD>
+in	<PAD>
+2012	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+got	<PAD>
+shot	<PAD>
+at	<PAD>
+
+who	<PAD>
+wrote	<PAD>
+someone	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+government	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+now	<PAD>
+
+what	<PAD>
+age	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+married	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+programmed	<PAD>
+in	<PAD>
+
+what	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+on	<PAD>
+the	<PAD>
+map	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+capital	<PAD>
+of	<PAD>
+republic	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+has	<PAD>
+someone	<PAD>
+acted	<PAD>
+in	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+who	<PAD>
+are	<PAD>
+the	<PAD>
+senators	<PAD>
+of	<PAD>
+someone	<PAD>
+2012	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+fl	<PAD>
+in	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+include	<PAD>
+
+after	<PAD>
+how	<PAD>
+many	<PAD>
+years	<PAD>
+are	<PAD>
+someone	<PAD>
+held	<PAD>
+
+what	<PAD>
+system	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+president	<PAD>
+of	<PAD>
+someone	<PAD>
+2012	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+kenya	<PAD>
+moore	<PAD>
+crowned	<PAD>
+someone	<PAD>
+
+what	<PAD>
+sort	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+where	<PAD>
+does	<PAD>
+chef	<PAD>
+someone	<PAD>
+live	<PAD>
+
+when	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+world	<PAD>
+series	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+language	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+first	<PAD>
+language	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+most	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+west	<PAD>
+indies	<PAD>
+
+what	<PAD>
+role	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+the	<PAD>
+beatles	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+the	<PAD>
+champions	<PAD>
+league	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+father	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+capital	<PAD>
+of	<PAD>
+australia	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+spoken	<PAD>
+most	<PAD>
+
+what	<PAD>
+team	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+2011	<PAD>
+
+what	<PAD>
+highschool	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+currency	<PAD>
+should	<PAD>
+i	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+football	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+
+who	<PAD>
+won	<PAD>
+someone	<PAD>
+1976	<PAD>
+
+what	<PAD>
+did	<PAD>
+general	<PAD>
+someone	<PAD>
+die	<PAD>
+from	<PAD>
+
+what	<PAD>
+style	<PAD>
+of	<PAD>
+art	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+who	<PAD>
+plays	<PAD>
+chuck	<PAD>
+bass	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+in	<PAD>
+gossip	<PAD>
+girl	<PAD>
+
+what	<PAD>
+countries	<PAD>
+have	<PAD>
+territories	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+political	<PAD>
+system	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+group	<PAD>
+does	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+right	<PAD>
+now	<PAD>
+
+when	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+which	<PAD>
+political	<PAD>
+party	<PAD>
+does	<PAD>
+someone	<PAD>
+represent	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+leukemia	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+the	<PAD>
+book	<PAD>
+someone	<PAD>
+wrote	<PAD>
+in	<PAD>
+jail	<PAD>
+
+what	<PAD>
+is	<PAD>
+there	<PAD>
+to	<PAD>
+see	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+found	<PAD>
+dead	<PAD>
+
+what	<PAD>
+states	<PAD>
+does	<PAD>
+someone	<PAD>
+nevada	<PAD>
+run	<PAD>
+through	<PAD>
+
+what	<PAD>
+language	<PAD>
+is	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+2011	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+record	<PAD>
+label	<PAD>
+is	<PAD>
+someone	<PAD>
+signed	<PAD>
+with	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+currency	<PAD>
+should	<PAD>
+you	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+married	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+money	<PAD>
+do	<PAD>
+i	<PAD>
+need	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+the	<PAD>
+capital	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+now	<PAD>
+
+what	<PAD>
+pieces	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+compose	<PAD>
+
+who	<PAD>
+was	<PAD>
+selena	<PAD>
+gomez	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+barney	<PAD>
+and	<PAD>
+friends	<PAD>
+
+who	<PAD>
+plays	<PAD>
+caesar	<PAD>
+flickerman	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+'s	<PAD>
+brothers	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+signed	<PAD>
+to	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+1988	<PAD>
+in	<PAD>
+the	<PAD>
+united	<PAD>
+states	<PAD>
+
+who	<PAD>
+owns	<PAD>
+someone	<PAD>
+2012	<PAD>
+
+what	<PAD>
+drink	<PAD>
+did	<PAD>
+someone	<PAD>
+create	<PAD>
+
+what	<PAD>
+position	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+charlie	<PAD>
+full	<PAD>
+name	<PAD>
+
+who	<PAD>
+makes	<PAD>
+the	<PAD>
+voice	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+mom	<PAD>
+and	<PAD>
+dad	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+2009	<PAD>
+
+who	<PAD>
+someone	<PAD>
+has	<PAD>
+dated	<PAD>
+
+what	<PAD>
+party	<PAD>
+does	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+zip	<PAD>
+code	<PAD>
+
+who	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+for	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+celebrities	<PAD>
+has	<PAD>
+someone	<PAD>
+dated	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+currency	<PAD>
+
+who	<PAD>
+owns	<PAD>
+someone	<PAD>
+car	<PAD>
+company	<PAD>
+
+which	<PAD>
+is	<PAD>
+the	<PAD>
+main	<PAD>
+train	<PAD>
+station	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+from	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+newly	<PAD>
+elected	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+roxanne	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+ericsson	<PAD>
+company	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+this	<PAD>
+weekend	<PAD>
+in	<PAD>
+someone	<PAD>
+with	<PAD>
+kids	<PAD>
+
+what	<PAD>
+sport	<PAD>
+is	<PAD>
+popular	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+the	<PAD>
+main	<PAD>
+headquarters	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+education	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+new	<PAD>
+someone	<PAD>
+about	<PAD>
+
+what	<PAD>
+countries	<PAD>
+does	<PAD>
+someone	<PAD>
+include	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+tx	<PAD>
+in	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+play	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+cars	<PAD>
+
+who	<PAD>
+does	<PAD>
+michael	<PAD>
+keaton	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+holy	<PAD>
+book	<PAD>
+of	<PAD>
+someone	<PAD>
+religion	<PAD>
+
+who	<PAD>
+became	<PAD>
+president	<PAD>
+when	<PAD>
+someone	<PAD>
+died	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grow	<PAD>
+up	<PAD>
+
+what	<PAD>
+other	<PAD>
+books	<PAD>
+did	<PAD>
+someone	<PAD>
+write	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+originate	<PAD>
+
+who	<PAD>
+does	<PAD>
+the	<PAD>
+voice	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+states	<PAD>
+share	<PAD>
+a	<PAD>
+border	<PAD>
+with	<PAD>
+someone	<PAD>
+
+what	<PAD>
+war	<PAD>
+did	<PAD>
+someone	<PAD>
+lose	<PAD>
+the	<PAD>
+most	<PAD>
+soldiers	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+musical	<PAD>
+instruments	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+time	<PAD>
+in	<PAD>
+someone	<PAD>
+india	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+people	<PAD>
+from	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+spring	<PAD>
+training	<PAD>
+stadium	<PAD>
+
+what	<PAD>
+movies	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+corporate	<PAD>
+headquarters	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+based	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+found	<PAD>
+and	<PAD>
+killed	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+names	<PAD>
+of	<PAD>
+someone	<PAD>
+in	<PAD>
+order	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+from	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+border	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+country	<PAD>
+does	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+head	<PAD>
+judge	<PAD>
+of	<PAD>
+someone	<PAD>
+called	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+influenced	<PAD>
+by	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+religion	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+when	<PAD>
+is	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+world	<PAD>
+series	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+main	<PAD>
+language	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+the	<PAD>
+battle	<PAD>
+of	<PAD>
+someone	<PAD>
+occur	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+superbowl	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+2011	<PAD>
+
+what	<PAD>
+is	<PAD>
+money	<PAD>
+called	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+study	<PAD>
+
+who	<PAD>
+are	<PAD>
+someone	<PAD>
+senators	<PAD>
+2013	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+real	<PAD>
+name	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+members	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+
+what	<PAD>
+country	<PAD>
+sponsored	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+from	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+capital	<PAD>
+of	<PAD>
+modern	<PAD>
+day	<PAD>
+someone	<PAD>
+
+what	<PAD>
+province	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+(	<PAD>
+7	<PAD>
+letters	<PAD>
+)	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+currency	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+
+what	<PAD>
+types	<PAD>
+of	<PAD>
+art	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+other	<PAD>
+states	<PAD>
+border	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+predominant	<PAD>
+religions	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+will	<PAD>
+coach	<PAD>
+someone	<PAD>
+in	<PAD>
+2013	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grow	<PAD>
+up	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+for	<PAD>
+fun	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+else	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+in	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+state	<PAD>
+now	<PAD>
+
+where	<PAD>
+is	<PAD>
+ancient	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+practice	<PAD>
+
+where	<PAD>
+someone	<PAD>
+got	<PAD>
+killed	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+get	<PAD>
+its	<PAD>
+water	<PAD>
+from	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+people	<PAD>
+from	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+import	<PAD>
+from	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+daughter	<PAD>
+
+who	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+pray	<PAD>
+to	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+from	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+movies	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+hit	<PAD>
+san	<PAD>
+francisco	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+after	<PAD>
+he	<PAD>
+died	<PAD>
+on	<PAD>
+the	<PAD>
+cross	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+voiced	<PAD>
+someone	<PAD>
+in	<PAD>
+the	<PAD>
+original	<PAD>
+star	<PAD>
+wars	<PAD>
+movies	<PAD>
+
+what	<PAD>
+high	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+5	<PAD>
+countries	<PAD>
+border	<PAD>
+someone	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+someone	<PAD>
+govern	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+leader	<PAD>
+of	<PAD>
+the	<PAD>
+first	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+of	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+date	<PAD>
+did	<PAD>
+someone	<PAD>
+won	<PAD>
+gold	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+last	<PAD>
+win	<PAD>
+the	<PAD>
+championship	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+the	<PAD>
+cup	<PAD>
+
+who	<PAD>
+is	<PAD>
+number	<PAD>
+22	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+wa	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+occur	<PAD>
+
+who	<PAD>
+would	<PAD>
+play	<PAD>
+someone	<PAD>
+
+where	<PAD>
+someone	<PAD>
+originate	<PAD>
+
+what	<PAD>
+awards	<PAD>
+someone	<PAD>
+won	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+their	<PAD>
+first	<PAD>
+nba	<PAD>
+championship	<PAD>
+
+what	<PAD>
+currency	<PAD>
+should	<PAD>
+i	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+in	<PAD>
+someone	<PAD>
+yahoo	<PAD>
+
+what	<PAD>
+superbowl	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+language	<PAD>
+of	<PAD>
+someone	<PAD>
+s	<PAD>
+spoken	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+king	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+
+who	<PAD>
+are	<PAD>
+someone	<PAD>
+parents	<PAD>
+
+what	<PAD>
+schools	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+cause	<PAD>
+of	<PAD>
+death	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+books	<PAD>
+are	<PAD>
+written	<PAD>
+by	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+does	<PAD>
+someone	<PAD>
+border	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2010	<PAD>
+
+what	<PAD>
+time	<PAD>
+zone	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+colleges	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+
+who	<PAD>
+founded	<PAD>
+someone	<PAD>
+
+what	<PAD>
+jobs	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+before	<PAD>
+he	<PAD>
+was	<PAD>
+president	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+out	<PAD>
+
+what	<PAD>
+political	<PAD>
+party	<PAD>
+did	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+killed	<PAD>
+
+where	<PAD>
+are	<PAD>
+people	<PAD>
+who	<PAD>
+speak	<PAD>
+someone	<PAD>
+from	<PAD>
+
+who	<PAD>
+was	<PAD>
+queen	<PAD>
+someone	<PAD>
+mom	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+art	<PAD>
+did	<PAD>
+someone	<PAD>
+paint	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+parents	<PAD>
+name	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+parents	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+gets	<PAD>
+engaged	<PAD>
+to	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+first	<PAD>
+album	<PAD>
+
+what	<PAD>
+political	<PAD>
+system	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+cases	<PAD>
+
+what	<PAD>
+is	<PAD>
+penn	<PAD>
+state	<PAD>
+'s	<PAD>
+someone	<PAD>
+
+what	<PAD>
+country	<PAD>
+does	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+pink	<PAD>
+someone	<PAD>
+'s	<PAD>
+first	<PAD>
+album	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+married	<PAD>
+
+what	<PAD>
+language	<PAD>
+did	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+are	<PAD>
+some	<PAD>
+famous	<PAD>
+people	<PAD>
+from	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2008	<PAD>
+
+who	<PAD>
+plays	<PAD>
+dwight	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+quarterback	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+basketball	<PAD>
+player	<PAD>
+is	<PAD>
+married	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+use	<PAD>
+to	<PAD>
+kill	<PAD>
+himself	<PAD>
+
+what	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+when	<PAD>
+is	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+superbowl	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+when	<PAD>
+he	<PAD>
+was	<PAD>
+stabbed	<PAD>
+
+what	<PAD>
+style	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+perform	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+
+what	<PAD>
+time	<PAD>
+zone	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+right	<PAD>
+now	<PAD>
+
+what	<PAD>
+two	<PAD>
+countries	<PAD>
+make	<PAD>
+up	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+vice	<PAD>
+president	<PAD>
+under	<PAD>
+someone	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+play	<PAD>
+home	<PAD>
+games	<PAD>
+
+what	<PAD>
+part	<PAD>
+did	<PAD>
+jeff	<PAD>
+conaway	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+part	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+grease	<PAD>
+
+what	<PAD>
+book	<PAD>
+did	<PAD>
+someone	<PAD>
+published	<PAD>
+
+what	<PAD>
+currency	<PAD>
+to	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+they	<PAD>
+get	<PAD>
+the	<PAD>
+name	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+airport	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+husband	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+work	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+do	<PAD>
+for	<PAD>
+work	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+happened	<PAD>
+to	<PAD>
+someone	<PAD>
+during	<PAD>
+ww2	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+good	<PAD>
+at	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+on	<PAD>
+west	<PAD>
+wing	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+season	<PAD>
+1	<PAD>
+of	<PAD>
+family	<PAD>
+guy	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+superbowl	<PAD>
+
+where	<PAD>
+do	<PAD>
+ireland	<PAD>
+play	<PAD>
+someone	<PAD>
+
+who	<PAD>
+killed	<PAD>
+someone	<PAD>
+shot	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+championship	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+the	<PAD>
+championship	<PAD>
+
+what	<PAD>
+countries	<PAD>
+included	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+country	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+who	<PAD>
+played	<PAD>
+harry	<PAD>
+potter	<PAD>
+someone	<PAD>
+actor	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+1999	<PAD>
+
+what	<PAD>
+movies	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+what	<PAD>
+is	<PAD>
+capital	<PAD>
+city	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+movies	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+district	<PAD>
+does	<PAD>
+someone	<PAD>
+represent	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+gold	<PAD>
+medal	<PAD>
+for	<PAD>
+
+where	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+someone	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+in	<PAD>
+someone	<PAD>
+ca	<PAD>
+this	<PAD>
+weekend	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+town	<PAD>
+did	<PAD>
+someone	<PAD>
+grew	<PAD>
+up	<PAD>
+in	<PAD>
+
+who	<PAD>
+plays	<PAD>
+charlie	<PAD>
+in	<PAD>
+someone	<PAD>
+movies	<PAD>
+
+what	<PAD>
+highschool	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+
+what	<PAD>
+happened	<PAD>
+at	<PAD>
+someone	<PAD>
+
+what	<PAD>
+country	<PAD>
+is	<PAD>
+someone	<PAD>
+based	<PAD>
+in	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+money	<PAD>
+do	<PAD>
+i	<PAD>
+bring	<PAD>
+to	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+pro	<PAD>
+football	<PAD>
+for	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+play	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+main	<PAD>
+language	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+classified	<PAD>
+as	<PAD>
+
+what	<PAD>
+has	<PAD>
+someone	<PAD>
+accomplished	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+star	<PAD>
+trek	<PAD>
+movie	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+x	<PAD>
+files	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+dominant	<PAD>
+language	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+coach	<PAD>
+for	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+now	<PAD>
+
+what	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+now	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+original	<PAD>
+voice	<PAD>
+of	<PAD>
+someone	<PAD>
+on	<PAD>
+family	<PAD>
+guy	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2010	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+wv	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+timezone	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+dodgeball	<PAD>
+
+who	<PAD>
+does	<PAD>
+amy	<PAD>
+stiller	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+were	<PAD>
+someone	<PAD>
+children	<PAD>
+
+who	<PAD>
+does	<PAD>
+mila	<PAD>
+kunis	<PAD>
+play	<PAD>
+on	<PAD>
+someone	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+occur	<PAD>
+
+who	<PAD>
+played	<PAD>
+damien	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+played	<PAD>
+denver	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+with	<PAD>
+kids	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+draft	<PAD>
+
+what	<PAD>
+concentration	<PAD>
+camp	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+in	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+currency	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+the	<PAD>
+currency	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+voice	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+famous	<PAD>
+people	<PAD>
+are	<PAD>
+from	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+the	<PAD>
+currency	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+names	<PAD>
+of	<PAD>
+someone	<PAD>
+'s	<PAD>
+3	<PAD>
+children	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+2010	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+playing	<PAD>
+for	<PAD>
+this	<PAD>
+year	<PAD>
+
+where	<PAD>
+were	<PAD>
+someone	<PAD>
+built	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+what	<PAD>
+country	<PAD>
+was	<PAD>
+someone	<PAD>
+found	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+and	<PAD>
+his	<PAD>
+descendants	<PAD>
+live	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+collage	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+sports	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+someone	<PAD>
+was	<PAD>
+born	<PAD>
+
+what	<PAD>
+sports	<PAD>
+do	<PAD>
+people	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+dating	<PAD>
+
+what	<PAD>
+films	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+who	<PAD>
+originally	<PAD>
+voiced	<PAD>
+meg	<PAD>
+on	<PAD>
+someone	<PAD>
+
+who	<PAD>
+played	<PAD>
+amy	<PAD>
+squirrel	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+headquarters	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+religions	<PAD>
+are	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+lord	<PAD>
+of	<PAD>
+the	<PAD>
+rings	<PAD>
+
+who	<PAD>
+did	<PAD>
+viggo	<PAD>
+mortensen	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+viggo	<PAD>
+mortensen	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+and	<PAD>
+what	<PAD>
+did	<PAD>
+he	<PAD>
+do	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+what	<PAD>
+movies	<PAD>
+someone	<PAD>
+is	<PAD>
+in	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+graduated	<PAD>
+from	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+compose	<PAD>
+
+what	<PAD>
+country	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+document	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+facts	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+how	<PAD>
+many	<PAD>
+someone	<PAD>
+sisters	<PAD>
+
+what	<PAD>
+do	<PAD>
+we	<PAD>
+call	<PAD>
+the	<PAD>
+currency	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2012	<PAD>
+
+what	<PAD>
+movies	<PAD>
+did	<PAD>
+someone	<PAD>
+star	<PAD>
+in	<PAD>
+
+what	<PAD>
+radio	<PAD>
+station	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+in	<PAD>
+nyc	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+what	<PAD>
+countries	<PAD>
+makes	<PAD>
+up	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+zip	<PAD>
+code	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+capital	<PAD>
+city	<PAD>
+of	<PAD>
+someone	<PAD>
+wiki	<PAD>
+answers	<PAD>
+
+where	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+someone	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+retired	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+currency	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+before	<PAD>
+the	<PAD>
+euro	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+state	<PAD>
+slogan	<PAD>
+
+who	<PAD>
+played	<PAD>
+samantha	<PAD>
+stephens	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+area	<PAD>
+of	<PAD>
+science	<PAD>
+did	<PAD>
+someone	<PAD>
+study	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+which	<PAD>
+country	<PAD>
+in	<PAD>
+someone	<PAD>
+is	<PAD>
+divided	<PAD>
+into	<PAD>
+provinces	<PAD>
+
+what	<PAD>
+is	<PAD>
+real	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+pro	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+from	<PAD>
+
+who	<PAD>
+was	<PAD>
+vp	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+religion	<PAD>
+did	<PAD>
+someone	<PAD>
+follow	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+a	<PAD>
+map	<PAD>
+
+where	<PAD>
+someone	<PAD>
+in	<PAD>
+the	<PAD>
+world	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+now	<PAD>
+2011	<PAD>
+
+what	<PAD>
+someone	<PAD>
+was	<PAD>
+famous	<PAD>
+for	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+graduated	<PAD>
+college	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+corpse	<PAD>
+bride	<PAD>
+
+who	<PAD>
+did	<PAD>
+johnny	<PAD>
+depp	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+
+when	<PAD>
+was	<PAD>
+taylor	<PAD>
+swift	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+and	<PAD>
+his	<PAD>
+wife	<PAD>
+live	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+voice	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+real	<PAD>
+full	<PAD>
+name	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+first	<PAD>
+husband	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+seven	<PAD>
+nations	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+baby	<PAD>
+name	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+mother	<PAD>
+of	<PAD>
+prince	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+mascot	<PAD>
+name	<PAD>
+
+what	<PAD>
+rainforest	<PAD>
+is	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+art	<PAD>
+does	<PAD>
+someone	<PAD>
+do	<PAD>
+
+when	<PAD>
+did	<PAD>
+we	<PAD>
+start	<PAD>
+someone	<PAD>
+
+what	<PAD>
+guitar	<PAD>
+did	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+x	<PAD>
+men	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+2011	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+voice	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+ga	<PAD>
+
+what	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+of	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+major	<PAD>
+in	<PAD>
+
+what	<PAD>
+time	<PAD>
+zone	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+right	<PAD>
+now	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+originally	<PAD>
+
+what	<PAD>
+role	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+star	<PAD>
+wars	<PAD>
+
+what	<PAD>
+someone	<PAD>
+books	<PAD>
+are	<PAD>
+movies	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+time	<PAD>
+in	<PAD>
+kauai	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+time	<PAD>
+in	<PAD>
+someone	<PAD>
+hawaii	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+time	<PAD>
+in	<PAD>
+kauai	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+time	<PAD>
+in	<PAD>
+kauai	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+time	<PAD>
+in	<PAD>
+someone	<PAD>
+hawaii	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+buried	<PAD>
+
+what	<PAD>
+inspired	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+today	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+speakers	<PAD>
+distributed	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+capital	<PAD>
+of	<PAD>
+someone	<PAD>
+today	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+club	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2010	<PAD>
+
+what	<PAD>
+time	<PAD>
+zone	<PAD>
+is	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+influenced	<PAD>
+someone	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+work	<PAD>
+as	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+end	<PAD>
+
+who	<PAD>
+played	<PAD>
+carlton	<PAD>
+lassiter	<PAD>
+on	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+president	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+contributions	<PAD>
+
+who	<PAD>
+is	<PAD>
+ruling	<PAD>
+someone	<PAD>
+
+when	<PAD>
+does	<PAD>
+ziva	<PAD>
+start	<PAD>
+on	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+the	<PAD>
+national	<PAD>
+anthem	<PAD>
+of	<PAD>
+someone	<PAD>
+(	<PAD>
+2	<PAD>
+words	<PAD>
+)	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+study	<PAD>
+
+which	<PAD>
+country	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+
+what	<PAD>
+country	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+charge	<PAD>
+of	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+career	<PAD>
+high	<PAD>
+points	<PAD>
+
+what	<PAD>
+nationality	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+in	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+someone	<PAD>
+boyfriends	<PAD>
+name	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+to	<PAD>
+see	<PAD>
+in	<PAD>
+someone	<PAD>
+new	<PAD>
+zealand	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+someone	<PAD>
+rookie	<PAD>
+year	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+colors	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+business	<PAD>
+did	<PAD>
+someone	<PAD>
+dominate	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+inventions	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+first	<PAD>
+play	<PAD>
+for	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+artist	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+football	<PAD>
+team	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+start	<PAD>
+
+what	<PAD>
+are	<PAD>
+all	<PAD>
+the	<PAD>
+names	<PAD>
+of	<PAD>
+someone	<PAD>
+potter	<PAD>
+books	<PAD>
+
+who	<PAD>
+was	<PAD>
+sir	<PAD>
+someone	<PAD>
+and	<PAD>
+what	<PAD>
+did	<PAD>
+he	<PAD>
+do	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+in	<PAD>
+someone	<PAD>
+dollar	<PAD>
+
+what	<PAD>
+currency	<PAD>
+can	<PAD>
+you	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+city	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+state	<PAD>
+flower	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+the	<PAD>
+national	<PAD>
+someone	<PAD>
+foundation	<PAD>
+located	<PAD>
+today	<PAD>
+
+which	<PAD>
+countries	<PAD>
+speak	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+eowyn	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+augusta	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+from	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2010	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+books	<PAD>
+did	<PAD>
+someone	<PAD>
+write	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+super	<PAD>
+bowl	<PAD>
+
+where	<PAD>
+did	<PAD>
+the	<PAD>
+battle	<PAD>
+of	<PAD>
+someone	<PAD>
+happen	<PAD>
+
+what	<PAD>
+part	<PAD>
+of	<PAD>
+the	<PAD>
+country	<PAD>
+is	<PAD>
+someone	<PAD>
+considered	<PAD>
+
+what	<PAD>
+team	<PAD>
+is	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+standard	<PAD>
+time	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+currency	<PAD>
+can	<PAD>
+you	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+1773	<PAD>
+
+what	<PAD>
+drugs	<PAD>
+someone	<PAD>
+abuse	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+superbowl	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+happen	<PAD>
+
+who	<PAD>
+won	<PAD>
+the	<PAD>
+governor	<PAD>
+election	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+do	<PAD>
+
+when	<PAD>
+are	<PAD>
+the	<PAD>
+summer	<PAD>
+and	<PAD>
+winter	<PAD>
+someone	<PAD>
+held	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+some	<PAD>
+major	<PAD>
+events	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+guitar	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grew	<PAD>
+up	<PAD>
+
+under	<PAD>
+what	<PAD>
+political	<PAD>
+system	<PAD>
+does	<PAD>
+someone	<PAD>
+operate	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+in	<PAD>
+someone	<PAD>
+in	<PAD>
+1	<PAD>
+day	<PAD>
+
+what	<PAD>
+city	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+state	<PAD>
+motto	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+composed	<PAD>
+
+how	<PAD>
+many	<PAD>
+kids	<PAD>
+were	<PAD>
+there	<PAD>
+in	<PAD>
+someone	<PAD>
+
+which	<PAD>
+someone	<PAD>
+airport	<PAD>
+is	<PAD>
+closest	<PAD>
+to	<PAD>
+the	<PAD>
+port	<PAD>
+
+where	<PAD>
+has	<PAD>
+someone	<PAD>
+language	<PAD>
+evolved	<PAD>
+from	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+hitler	<PAD>
+invade	<PAD>
+that	<PAD>
+started	<PAD>
+someone	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+known	<PAD>
+for	<PAD>
+
+what	<PAD>
+continent	<PAD>
+does	<PAD>
+someone	<PAD>
+belong	<PAD>
+to	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+do	<PAD>
+for	<PAD>
+a	<PAD>
+living	<PAD>
+
+what	<PAD>
+city	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+what	<PAD>
+are	<PAD>
+fun	<PAD>
+things	<PAD>
+to	<PAD>
+do	<PAD>
+in	<PAD>
+someone	<PAD>
+ca	<PAD>
+
+what	<PAD>
+other	<PAD>
+movies	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+the	<PAD>
+leader	<PAD>
+of	<PAD>
+
+what	<PAD>
+awards	<PAD>
+did	<PAD>
+someone	<PAD>
+won	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+after	<PAD>
+1979	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+high	<PAD>
+school	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+art	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+who	<PAD>
+won	<PAD>
+someone	<PAD>
+in	<PAD>
+2002	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+inspired	<PAD>
+by	<PAD>
+
+in	<PAD>
+what	<PAD>
+country	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+someone	<PAD>
+
+who	<PAD>
+were	<PAD>
+someone	<PAD>
+'s	<PAD>
+siblings	<PAD>
+
+where	<PAD>
+should	<PAD>
+a	<PAD>
+family	<PAD>
+stay	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+wife	<PAD>
+
+what	<PAD>
+the	<PAD>
+largest	<PAD>
+city	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+for	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+stadium	<PAD>
+called	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+war	<PAD>
+take	<PAD>
+place	<PAD>
+
+what	<PAD>
+other	<PAD>
+movies	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+in	<PAD>
+
+what	<PAD>
+to	<PAD>
+visit	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+for	<PAD>
+the	<PAD>
+world	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+the	<PAD>
+fellowship	<PAD>
+of	<PAD>
+the	<PAD>
+ring	<PAD>
+
+who	<PAD>
+played	<PAD>
+bilbo	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+most	<PAD>
+populated	<PAD>
+state	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+my	<PAD>
+state	<PAD>
+senator	<PAD>
+someone	<PAD>
+
+when	<PAD>
+does	<PAD>
+someone	<PAD>
+end	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+go	<PAD>
+
+who	<PAD>
+did	<PAD>
+tom	<PAD>
+hanks	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+apollo	<PAD>
+13	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+they	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+state	<PAD>
+capitol	<PAD>
+
+what	<PAD>
+is	<PAD>
+utah	<PAD>
+'s	<PAD>
+someone	<PAD>
+
+what	<PAD>
+all	<PAD>
+did	<PAD>
+someone	<PAD>
+invent	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+2013	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+nationality	<PAD>
+
+who	<PAD>
+are	<PAD>
+the	<PAD>
+u	<PAD>
+s	<PAD>
+senators	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+degree	<PAD>
+did	<PAD>
+someone	<PAD>
+earn	<PAD>
+
+what	<PAD>
+two	<PAD>
+states	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+won	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+the	<PAD>
+currency	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+four	<PAD>
+nations	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+father	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+drug	<PAD>
+killed	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+time	<PAD>
+zone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+name	<PAD>
+his	<PAD>
+son	<PAD>
+
+what	<PAD>
+currency	<PAD>
+should	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+state	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+married	<PAD>
+too	<PAD>
+
+what	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+study	<PAD>
+
+what	<PAD>
+songs	<PAD>
+do	<PAD>
+someone	<PAD>
+sing	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+formed	<PAD>
+someone	<PAD>
+
+what	<PAD>
+to	<PAD>
+visit	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+when	<PAD>
+he	<PAD>
+got	<PAD>
+shot	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+2011	<PAD>
+
+what	<PAD>
+province	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+prom	<PAD>
+night	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+to	<PAD>
+earn	<PAD>
+a	<PAD>
+living	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+known	<PAD>
+for	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+other	<PAD>
+countries	<PAD>
+border	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+people	<PAD>
+in	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+predominant	<PAD>
+religion	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+has	<PAD>
+coached	<PAD>
+someone	<PAD>
+
+what	<PAD>
+time	<PAD>
+zone	<PAD>
+is	<PAD>
+someone	<PAD>
+gmt	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+someone	<PAD>
+help	<PAD>
+free	<PAD>
+
+what	<PAD>
+jobs	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+who	<PAD>
+won	<PAD>
+someone	<PAD>
+attorney	<PAD>
+general	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+leader	<PAD>
+of	<PAD>
+someone	<PAD>
+2011	<PAD>
+
+what	<PAD>
+the	<PAD>
+language	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+coaches	<PAD>
+someone	<PAD>
+
+what	<PAD>
+other	<PAD>
+countries	<PAD>
+does	<PAD>
+someone	<PAD>
+share	<PAD>
+borders	<PAD>
+with	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+at	<PAD>
+the	<PAD>
+end	<PAD>
+of	<PAD>
+return	<PAD>
+of	<PAD>
+the	<PAD>
+jedi	<PAD>
+
+what	<PAD>
+movies	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+what	<PAD>
+products	<PAD>
+does	<PAD>
+someone	<PAD>
+export	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+state	<PAD>
+bird	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+1993	<PAD>
+
+what	<PAD>
+there	<PAD>
+to	<PAD>
+do	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+ohio	<PAD>
+state	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+major	<PAD>
+languages	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+in	<PAD>
+his	<PAD>
+life	<PAD>
+
+what	<PAD>
+happened	<PAD>
+to	<PAD>
+pope	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+went	<PAD>
+to	<PAD>
+the	<PAD>
+stanley	<PAD>
+cup	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+in	<PAD>
+real	<PAD>
+life	<PAD>
+
+what	<PAD>
+inspired	<PAD>
+someone	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+own	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+on	<PAD>
+cheers	<PAD>
+
+who	<PAD>
+did	<PAD>
+woody	<PAD>
+harrelson	<PAD>
+play	<PAD>
+on	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+yahoo	<PAD>
+
+what	<PAD>
+language	<PAD>
+did	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+government	<PAD>
+do	<PAD>
+we	<PAD>
+have	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+colleges	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+secretary	<PAD>
+of	<PAD>
+state	<PAD>
+when	<PAD>
+someone	<PAD>
+was	<PAD>
+president	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+'s	<PAD>
+voice	<PAD>
+
+what	<PAD>
+currency	<PAD>
+is	<PAD>
+accepted	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+places	<PAD>
+are	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+places	<PAD>
+are	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+with	<PAD>
+kids	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+in	<PAD>
+someone	<PAD>
+in	<PAD>
+baseball	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+4	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+wife	<PAD>
+
+where	<PAD>
+all	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+currency	<PAD>
+shall	<PAD>
+i	<PAD>
+take	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+
+what	<PAD>
+tv	<PAD>
+series	<PAD>
+did	<PAD>
+someone	<PAD>
+star	<PAD>
+in	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+in	<PAD>
+star	<PAD>
+wars	<PAD>
+1	<PAD>
+
+who	<PAD>
+plays	<PAD>
+anakin	<PAD>
+skywalker	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+now	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+now	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grew	<PAD>
+up	<PAD>
+
+what	<PAD>
+capital	<PAD>
+city	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+who	<PAD>
+owns	<PAD>
+someone	<PAD>
+2011	<PAD>
+
+what	<PAD>
+are	<PAD>
+some	<PAD>
+books	<PAD>
+that	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+contribution	<PAD>
+
+who	<PAD>
+has	<PAD>
+someone	<PAD>
+dated	<PAD>
+
+who	<PAD>
+is	<PAD>
+running	<PAD>
+for	<PAD>
+vice	<PAD>
+president	<PAD>
+with	<PAD>
+someone	<PAD>
+2012	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+people	<PAD>
+from	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+with	<PAD>
+my	<PAD>
+kids	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+what	<PAD>
+someone	<PAD>
+capital	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+famous	<PAD>
+people	<PAD>
+came	<PAD>
+from	<PAD>
+someone	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+become	<PAD>
+governor	<PAD>
+
+what	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+guitar	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+episode	<PAD>
+of	<PAD>
+how	<PAD>
+i	<PAD>
+met	<PAD>
+your	<PAD>
+mother	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+
+who	<PAD>
+are	<PAD>
+the	<PAD>
+9	<PAD>
+justices	<PAD>
+of	<PAD>
+someone	<PAD>
+2011	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+the	<PAD>
+golfer	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+a	<PAD>
+son	<PAD>
+with	<PAD>
+
+what	<PAD>
+city	<PAD>
+is	<PAD>
+someone	<PAD>
+state	<PAD>
+in	<PAD>
+
+who	<PAD>
+played	<PAD>
+carmen	<PAD>
+cortez	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+political	<PAD>
+system	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+prompted	<PAD>
+someone	<PAD>
+to	<PAD>
+write	<PAD>
+poetry	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+currency	<PAD>
+in	<PAD>
+someone	<PAD>
+called	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+2012	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+art	<PAD>
+does	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+character	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+star	<PAD>
+wars	<PAD>
+
+what	<PAD>
+language	<PAD>
+is	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+fly	<PAD>
+
+where	<PAD>
+does	<PAD>
+the	<PAD>
+city	<PAD>
+of	<PAD>
+someone	<PAD>
+get	<PAD>
+its	<PAD>
+name	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+based	<PAD>
+
+what	<PAD>
+city	<PAD>
+and	<PAD>
+state	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+in	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+where	<PAD>
+is	<PAD>
+the	<PAD>
+home	<PAD>
+stadium	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+terriers	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+downtown	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+parents	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+involved	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+continent	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+language	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+football	<PAD>
+for	<PAD>
+
+when	<PAD>
+is	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+a	<PAD>
+superbowl	<PAD>
+
+who	<PAD>
+invented	<PAD>
+someone	<PAD>
+religion	<PAD>
+
+who	<PAD>
+were	<PAD>
+we	<PAD>
+fighting	<PAD>
+in	<PAD>
+someone	<PAD>
+
+how	<PAD>
+many	<PAD>
+languages	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+political	<PAD>
+party	<PAD>
+does	<PAD>
+someone	<PAD>
+represent	<PAD>
+
+what	<PAD>
+movies	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+where	<PAD>
+did	<PAD>
+emperor	<PAD>
+someone	<PAD>
+die	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+planet	<PAD>
+did	<PAD>
+someone	<PAD>
+came	<PAD>
+from	<PAD>
+
+who	<PAD>
+are	<PAD>
+the	<PAD>
+coaches	<PAD>
+for	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+the	<PAD>
+first	<PAD>
+someone	<PAD>
+headquarters	<PAD>
+located	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+discover	<PAD>
+about	<PAD>
+the	<PAD>
+atomic	<PAD>
+structure	<PAD>
+
+what	<PAD>
+books	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+2012	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+wife	<PAD>
+'s	<PAD>
+name	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+school	<PAD>
+does	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+well	<PAD>
+known	<PAD>
+for	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+after	<PAD>
+william	<PAD>
+henry	<PAD>
+harrison	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+high	<PAD>
+school	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+title	<PAD>
+of	<PAD>
+someone	<PAD>
+'s	<PAD>
+new	<PAD>
+book	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+wife	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+the	<PAD>
+super	<PAD>
+bowl	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+official	<PAD>
+language	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+called	<PAD>
+
+when	<PAD>
+'s	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+world	<PAD>
+series	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+play	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+
+what	<PAD>
+to	<PAD>
+do	<PAD>
+someone	<PAD>
+
+who	<PAD>
+founded	<PAD>
+someone	<PAD>
+
+who	<PAD>
+created	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+constitute	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+all	<PAD>
+the	<PAD>
+countries	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+of	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+guitar	<PAD>
+someone	<PAD>
+
+what	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+
+what	<PAD>
+university	<PAD>
+did	<PAD>
+someone	<PAD>
+graduated	<PAD>
+from	<PAD>
+
+what	<PAD>
+someone	<PAD>
+money	<PAD>
+called	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+stadium	<PAD>
+located	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+theory	<PAD>
+
+what	<PAD>
+should	<PAD>
+i	<PAD>
+do	<PAD>
+today	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+influenced	<PAD>
+someone	<PAD>
+art	<PAD>
+
+what	<PAD>
+is	<PAD>
+my	<PAD>
+timezone	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+products	<PAD>
+and\/or	<PAD>
+services	<PAD>
+does	<PAD>
+someone	<PAD>
+offer	<PAD>
+customers	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+last	<PAD>
+year	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+democracy	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+time	<PAD>
+in	<PAD>
+china	<PAD>
+someone	<PAD>
+
+what	<PAD>
+all	<PAD>
+movies	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+what	<PAD>
+disease	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+of	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+mother	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+a	<PAD>
+baby	<PAD>
+with	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+winnipeg	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+most	<PAD>
+popular	<PAD>
+religions	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+former	<PAD>
+occupation	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+source	<PAD>
+
+what	<PAD>
+new	<PAD>
+movies	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+products	<PAD>
+does	<PAD>
+someone	<PAD>
+sell	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+honor	<PAD>
+did	<PAD>
+someone	<PAD>
+receive	<PAD>
+in	<PAD>
+1971	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+sacred	<PAD>
+text	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+speak	<PAD>
+someone	<PAD>
+natively	<PAD>
+
+who	<PAD>
+won	<PAD>
+someone	<PAD>
+2012	<PAD>
+
+what	<PAD>
+language	<PAD>
+is	<PAD>
+mainly	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+on	<PAD>
+tv	<PAD>
+show	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+vp	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+currency	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+art	<PAD>
+did	<PAD>
+someone	<PAD>
+create	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+religion	<PAD>
+was	<PAD>
+someone	<PAD>
+
+what	<PAD>
+football	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+from	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+discover	<PAD>
+
+what	<PAD>
+teams	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+for	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+run	<PAD>
+
+when	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+office	<PAD>
+
+what	<PAD>
+political	<PAD>
+party	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+ocean	<PAD>
+is	<PAD>
+around	<PAD>
+someone	<PAD>
+
+what	<PAD>
+ocean	<PAD>
+is	<PAD>
+around	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+most	<PAD>
+common	<PAD>
+language	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+some	<PAD>
+inventions	<PAD>
+that	<PAD>
+someone	<PAD>
+invented	<PAD>
+
+who	<PAD>
+wrote	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+coins	<PAD>
+called	<PAD>
+
+what	<PAD>
+type	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+take	<PAD>
+
+what	<PAD>
+inspired	<PAD>
+someone	<PAD>
+to	<PAD>
+become	<PAD>
+a	<PAD>
+singer	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+state	<PAD>
+senator	<PAD>
+
+what	<PAD>
+to	<PAD>
+visit	<PAD>
+in	<PAD>
+someone	<PAD>
+city	<PAD>
+
+what	<PAD>
+genre	<PAD>
+of	<PAD>
+art	<PAD>
+is	<PAD>
+someone	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+voice	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+got	<PAD>
+drafted	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+holy	<PAD>
+days	<PAD>
+
+what	<PAD>
+language	<PAD>
+is	<PAD>
+most	<PAD>
+commonly	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+a	<PAD>
+map	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+a	<PAD>
+map	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+married	<PAD>
+too	<PAD>
+
+who	<PAD>
+does	<PAD>
+the	<PAD>
+voice	<PAD>
+for	<PAD>
+chucky	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+fight	<PAD>
+for	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+begin	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+real	<PAD>
+name	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+founded	<PAD>
+
+what	<PAD>
+language	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+boarding	<PAD>
+school	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+
+where	<PAD>
+are	<PAD>
+ike	<PAD>
+and	<PAD>
+someone	<PAD>
+'s	<PAD>
+children	<PAD>
+
+what	<PAD>
+are	<PAD>
+some	<PAD>
+of	<PAD>
+someone	<PAD>
+most	<PAD>
+famous	<PAD>
+inventions	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+come	<PAD>
+into	<PAD>
+the	<PAD>
+nba	<PAD>
+
+where	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+zip	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+voice	<PAD>
+of	<PAD>
+someone	<PAD>
+in	<PAD>
+the	<PAD>
+original	<PAD>
+star	<PAD>
+wars	<PAD>
+movie	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+spoken	<PAD>
+around	<PAD>
+the	<PAD>
+world	<PAD>
+
+what	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+language	<PAD>
+from	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+top	<PAD>
+tourist	<PAD>
+attractions	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+were	<PAD>
+the	<PAD>
+children	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+from	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+parents	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+grow	<PAD>
+up	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+political	<PAD>
+party	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+leader	<PAD>
+of	<PAD>
+someone	<PAD>
+today	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+run	<PAD>
+through	<PAD>
+
+what	<PAD>
+money	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+someone	<PAD>
+take	<PAD>
+place	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+currently	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+world	<PAD>
+series	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+date	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+most	<PAD>
+common	<PAD>
+language	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+influenced	<PAD>
+someone	<PAD>
+to	<PAD>
+start	<PAD>
+writing	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+went	<PAD>
+to	<PAD>
+school	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+governor	<PAD>
+of	<PAD>
+someone	<PAD>
+2009	<PAD>
+
+what	<PAD>
+movies	<PAD>
+has	<PAD>
+someone	<PAD>
+made	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+of	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+based	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+timezone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+wife	<PAD>
+called	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+become	<PAD>
+president	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+where	<PAD>
+do	<PAD>
+someone	<PAD>
+originate	<PAD>
+from	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+son	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+most	<PAD>
+famous	<PAD>
+for	<PAD>
+
+who	<PAD>
+plays	<PAD>
+lex	<PAD>
+luthor	<PAD>
+on	<PAD>
+someone	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+colors	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+currency	<PAD>
+of	<PAD>
+someone	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+a	<PAD>
+playoff	<PAD>
+series	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+disease	<PAD>
+did	<PAD>
+someone	<PAD>
+had	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+coach	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+jr	<PAD>
+nationality	<PAD>
+
+who	<PAD>
+was	<PAD>
+married	<PAD>
+to	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+does	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+spoken	<PAD>
+in	<PAD>
+the	<PAD>
+world	<PAD>
+map	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+won	<PAD>
+the	<PAD>
+league	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+right	<PAD>
+now	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+countries	<PAD>
+speak	<PAD>
+someone	<PAD>
+as	<PAD>
+a	<PAD>
+first	<PAD>
+language	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+and	<PAD>
+what	<PAD>
+did	<PAD>
+he	<PAD>
+do	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+first	<PAD>
+wife	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+flow	<PAD>
+
+what	<PAD>
+is	<PAD>
+president	<PAD>
+someone	<PAD>
+'s	<PAD>
+first	<PAD>
+name	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+his	<PAD>
+education	<PAD>
+
+who	<PAD>
+or	<PAD>
+what	<PAD>
+influenced	<PAD>
+someone	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+their	<PAD>
+first	<PAD>
+championship	<PAD>
+
+where	<PAD>
+do	<PAD>
+most	<PAD>
+of	<PAD>
+the	<PAD>
+people	<PAD>
+live	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+movies	<PAD>
+has	<PAD>
+someone	<PAD>
+played	<PAD>
+in	<PAD>
+
+who	<PAD>
+plays	<PAD>
+nicholas	<PAD>
+newman	<PAD>
+on	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+voice	<PAD>
+of	<PAD>
+eric	<PAD>
+cartman	<PAD>
+on	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+brother	<PAD>
+
+where	<PAD>
+is	<PAD>
+the	<PAD>
+headquarters	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+country	<PAD>
+
+through	<PAD>
+which	<PAD>
+countries	<PAD>
+of	<PAD>
+the	<PAD>
+sahel	<PAD>
+does	<PAD>
+someone	<PAD>
+flow	<PAD>
+
+what	<PAD>
+city	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+in	<PAD>
+
+what	<PAD>
+city	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+what	<PAD>
+countries	<PAD>
+does	<PAD>
+someone	<PAD>
+western	<PAD>
+europe	<PAD>
+include	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+national	<PAD>
+language	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+occur	<PAD>
+
+what	<PAD>
+languages	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+
+where	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+someone	<PAD>
+
+what	<PAD>
+3	<PAD>
+states	<PAD>
+border	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+on	<PAD>
+ncis	<PAD>
+
+who	<PAD>
+ruled	<PAD>
+after	<PAD>
+someone	<PAD>
+died	<PAD>
+
+who	<PAD>
+are	<PAD>
+someone	<PAD>
+coaches	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+region	<PAD>
+is	<PAD>
+someone	<PAD>
+considered	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+buried	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+official	<PAD>
+languages	<PAD>
+of	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+the	<PAD>
+city	<PAD>
+someone	<PAD>
+
+what	<PAD>
+country	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+belief	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+prime	<PAD>
+minister	<PAD>
+of	<PAD>
+someone	<PAD>
+2011	<PAD>
+
+who	<PAD>
+was	<PAD>
+the	<PAD>
+son	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+
+how	<PAD>
+many	<PAD>
+languages	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+mum	<PAD>
+called	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+take	<PAD>
+office	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+in	<PAD>
+2010	<PAD>
+
+who	<PAD>
+or	<PAD>
+what	<PAD>
+influenced	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+export	<PAD>
+to	<PAD>
+
+where	<PAD>
+is	<PAD>
+the	<PAD>
+seat	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+artistic	<PAD>
+style	<PAD>
+did	<PAD>
+someone	<PAD>
+work	<PAD>
+in	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+indicted	<PAD>
+for	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+killed	<PAD>
+
+when	<PAD>
+was	<PAD>
+someone	<PAD>
+invented	<PAD>
+by	<PAD>
+gutenberg	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+scotland	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+soccer	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+'s	<PAD>
+family	<PAD>
+from	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+'s	<PAD>
+children	<PAD>
+called	<PAD>
+
+what	<PAD>
+city	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+in	<PAD>
+
+who	<PAD>
+fought	<PAD>
+in	<PAD>
+the	<PAD>
+battle	<PAD>
+of	<PAD>
+someone	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+writing	<PAD>
+is	<PAD>
+someone	<PAD>
+famous	<PAD>
+for	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+first	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+where	<PAD>
+are	<PAD>
+the	<PAD>
+timezones	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+does	<PAD>
+someone	<PAD>
+make	<PAD>
+
+what	<PAD>
+do	<PAD>
+people	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+do	<PAD>
+people	<PAD>
+in	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+position	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+was	<PAD>
+someone	<PAD>
+'s	<PAD>
+first	<PAD>
+team	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+president	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+guitar	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+art	<PAD>
+someone	<PAD>
+do	<PAD>
+
+who	<PAD>
+are	<PAD>
+the	<PAD>
+senators	<PAD>
+of	<PAD>
+someone	<PAD>
+now	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+raised	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+2011	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+state	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+religion	<PAD>
+does	<PAD>
+someone	<PAD>
+follow	<PAD>
+
+which	<PAD>
+countries	<PAD>
+have	<PAD>
+someone	<PAD>
+as	<PAD>
+their	<PAD>
+main	<PAD>
+language	<PAD>
+
+what	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+currency	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+
+what	<PAD>
+schools	<PAD>
+did	<PAD>
+someone	<PAD>
+attend	<PAD>
+
+what	<PAD>
+can	<PAD>
+do	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+accept	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+religion	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+south	<PAD>
+america	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+has	<PAD>
+
+what	<PAD>
+country	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+in	<PAD>
+
+where	<PAD>
+someone	<PAD>
+lived	<PAD>
+
+what	<PAD>
+sports	<PAD>
+are	<PAD>
+popular	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+'s	<PAD>
+my	<PAD>
+timezone	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+do	<PAD>
+they	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+indians	<PAD>
+speak	<PAD>
+
+who	<PAD>
+plays	<PAD>
+robin	<PAD>
+hood	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+standard	<PAD>
+time	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+instrument	<PAD>
+does	<PAD>
+someone	<PAD>
+
+who	<PAD>
+does	<PAD>
+alyson	<PAD>
+stoner	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+camp	<PAD>
+rock	<PAD>
+
+what	<PAD>
+religion	<PAD>
+does	<PAD>
+someone	<PAD>
+practice	<PAD>
+
+what	<PAD>
+countries	<PAD>
+are	<PAD>
+located	<PAD>
+near	<PAD>
+someone	<PAD>
+
+what	<PAD>
+made	<PAD>
+someone	<PAD>
+famous	<PAD>
+
+who	<PAD>
+originally	<PAD>
+voiced	<PAD>
+someone	<PAD>
+
+what	<PAD>
+airport	<PAD>
+do	<PAD>
+you	<PAD>
+fly	<PAD>
+into	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+someone	<PAD>
+new	<PAD>
+album	<PAD>
+called	<PAD>
+2012	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+discovery	<PAD>
+did	<PAD>
+someone	<PAD>
+make	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+government	<PAD>
+system	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+the	<PAD>
+role	<PAD>
+of	<PAD>
+someone	<PAD>
+on	<PAD>
+ncis	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+for	<PAD>
+living	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+state	<PAD>
+name	<PAD>
+of	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+
+what	<PAD>
+movies	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+in	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+named	<PAD>
+after	<PAD>
+
+where	<PAD>
+is	<PAD>
+traditional	<PAD>
+someone	<PAD>
+used	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+political	<PAD>
+system	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+language	<PAD>
+did	<PAD>
+the	<PAD>
+ancient	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+language	<PAD>
+did	<PAD>
+the	<PAD>
+ancient	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+painter	<PAD>
+was	<PAD>
+someone	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+money	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+who	<PAD>
+is	<PAD>
+my	<PAD>
+representative	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+timezone	<PAD>
+is	<PAD>
+someone	<PAD>
+gmt	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+jail	<PAD>
+
+what	<PAD>
+degrees	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+
+what	<PAD>
+does	<PAD>
+god	<PAD>
+someone	<PAD>
+represent	<PAD>
+
+what	<PAD>
+inventions	<PAD>
+were	<PAD>
+made	<PAD>
+by	<PAD>
+someone	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+name	<PAD>
+of	<PAD>
+the	<PAD>
+currency	<PAD>
+used	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+vice	<PAD>
+president	<PAD>
+with	<PAD>
+someone	<PAD>
+
+what	<PAD>
+songs	<PAD>
+did	<PAD>
+someone	<PAD>
+compose	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+happen	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+win	<PAD>
+the	<PAD>
+cup	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+money	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+baseball	<PAD>
+team	<PAD>
+was	<PAD>
+someone	<PAD>
+on	<PAD>
+
+what	<PAD>
+body	<PAD>
+of	<PAD>
+water	<PAD>
+does	<PAD>
+someone	<PAD>
+flow	<PAD>
+into	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+names	<PAD>
+of	<PAD>
+someone	<PAD>
+'s	<PAD>
+six	<PAD>
+sisters	<PAD>
+
+what	<PAD>
+voices	<PAD>
+does	<PAD>
+seth	<PAD>
+macfarlane	<PAD>
+play	<PAD>
+on	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+someone	<PAD>
+married	<PAD>
+to	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+the	<PAD>
+first	<PAD>
+movie	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+someone	<PAD>
+was	<PAD>
+born	<PAD>
+
+what	<PAD>
+'s	<PAD>
+there	<PAD>
+to	<PAD>
+see	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+located	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+currency	<PAD>
+does	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+is	<PAD>
+spoken	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+at	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+died	<PAD>
+of	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+year	<PAD>
+was	<PAD>
+someone	<PAD>
+mvp	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+school	<PAD>
+
+what	<PAD>
+county	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+discover	<PAD>
+
+who	<PAD>
+plays	<PAD>
+king	<PAD>
+julian	<PAD>
+someone	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+war	<PAD>
+take	<PAD>
+place	<PAD>
+
+what	<PAD>
+offices	<PAD>
+did	<PAD>
+someone	<PAD>
+hold	<PAD>
+
+what	<PAD>
+movies	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+who	<PAD>
+did	<PAD>
+james	<PAD>
+franco	<PAD>
+play	<PAD>
+in	<PAD>
+someone	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+start	<PAD>
+
+what	<PAD>
+wnba	<PAD>
+team	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+
+what	<PAD>
+do	<PAD>
+see	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+made	<PAD>
+the	<PAD>
+laws	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+year	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+drafted	<PAD>
+
+where	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+college	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+won	<PAD>
+a	<PAD>
+championship	<PAD>
+
+who	<PAD>
+is	<PAD>
+someone	<PAD>
+facts	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+get	<PAD>
+married	<PAD>
+
+what	<PAD>
+form	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+
+who	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+follow	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+
+who	<PAD>
+was	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+founded	<PAD>
+someone	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+die	<PAD>
+
+what	<PAD>
+is	<PAD>
+the	<PAD>
+country	<PAD>
+code	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+currency	<PAD>
+do	<PAD>
+they	<PAD>
+use	<PAD>
+in	<PAD>
+someone	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+buried	<PAD>
+
+where	<PAD>
+was	<PAD>
+the	<PAD>
+prophet	<PAD>
+someone	<PAD>
+from	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+people	<PAD>
+speak	<PAD>
+
+who	<PAD>
+are	<PAD>
+the	<PAD>
+judges	<PAD>
+appointed	<PAD>
+in	<PAD>
+someone	<PAD>
+
+when	<PAD>
+did	<PAD>
+someone	<PAD>
+join	<PAD>
+charmed	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+from	<PAD>
+
+when	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+time	<PAD>
+someone	<PAD>
+win	<PAD>
+the	<PAD>
+stanley	<PAD>
+cup	<PAD>
+
+what	<PAD>
+kind	<PAD>
+of	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+use	<PAD>
+
+what	<PAD>
+position	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+
+who	<PAD>
+played	<PAD>
+stanley	<PAD>
+kowalski	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+a	<PAD>
+streetcar	<PAD>
+named	<PAD>
+desire	<PAD>
+movie	<PAD>
+
+what	<PAD>
+book	<PAD>
+did	<PAD>
+someone	<PAD>
+wrote	<PAD>
+in	<PAD>
+1859	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+cause	<PAD>
+of	<PAD>
+death	<PAD>
+for	<PAD>
+someone	<PAD>
+
+what	<PAD>
+team	<PAD>
+is	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+movies	<PAD>
+someone	<PAD>
+has	<PAD>
+been	<PAD>
+in	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+
+what	<PAD>
+was	<PAD>
+the	<PAD>
+last	<PAD>
+movie	<PAD>
+someone	<PAD>
+was	<PAD>
+in	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+where	<PAD>
+did	<PAD>
+someone	<PAD>
+go	<PAD>
+to	<PAD>
+college	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+who	<PAD>
+is	<PAD>
+number	<PAD>
+22	<PAD>
+on	<PAD>
+someone	<PAD>
+
+what	<PAD>
+state	<PAD>
+did	<PAD>
+someone	<PAD>
+live	<PAD>
+in	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+music	<PAD>
+did	<PAD>
+someone	<PAD>
+compose	<PAD>
+
+what	<PAD>
+team	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+films	<PAD>
+has	<PAD>
+someone	<PAD>
+been	<PAD>
+in	<PAD>
+
+what	<PAD>
+materials	<PAD>
+did	<PAD>
+someone	<PAD>
+use	<PAD>
+in	<PAD>
+his	<PAD>
+work	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+study	<PAD>
+in	<PAD>
+college	<PAD>
+
+who	<PAD>
+plays	<PAD>
+timon	<PAD>
+'s	<PAD>
+voice	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+part	<PAD>
+of	<PAD>
+the	<PAD>
+country	<PAD>
+is	<PAD>
+someone	<PAD>
+in	<PAD>
+
+which	<PAD>
+island	<PAD>
+is	<PAD>
+someone	<PAD>
+on	<PAD>
+
+what	<PAD>
+language	<PAD>
+do	<PAD>
+speak	<PAD>
+in	<PAD>
+someone	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+won	<PAD>
+a	<PAD>
+grammy	<PAD>
+for	<PAD>
+
+who	<PAD>
+played	<PAD>
+someone	<PAD>
+in	<PAD>
+himym	<PAD>
+
+who	<PAD>
+does	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+
+what	<PAD>
+party	<PAD>
+was	<PAD>
+someone	<PAD>
+affiliated	<PAD>
+with	<PAD>
+
+what	<PAD>
+religions	<PAD>
+are	<PAD>
+popular	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+played	<PAD>
+berger	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+won	<PAD>
+the	<PAD>
+2000	<PAD>
+someone	<PAD>
+final	<PAD>
+
+what	<PAD>
+are	<PAD>
+the	<PAD>
+names	<PAD>
+of	<PAD>
+someone	<PAD>
+'s	<PAD>
+kids	<PAD>
+
+what	<PAD>
+movies	<PAD>
+have	<PAD>
+someone	<PAD>
+in	<PAD>
+them	<PAD>
+
+what	<PAD>
+the	<PAD>
+time	<PAD>
+zone	<PAD>
+in	<PAD>
+someone	<PAD>
+
+who	<PAD>
+plays	<PAD>
+someone	<PAD>
+in	<PAD>
+scrubs	<PAD>
+
+what	<PAD>
+race	<PAD>
+is	<PAD>
+someone	<PAD>
+
+what	<PAD>
+do	<PAD>
+people	<PAD>
+in	<PAD>
+someone	<PAD>
+speak	<PAD>
+
+which	<PAD>
+countries	<PAD>
+speak	<PAD>
+someone	<PAD>
+language	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+work	<PAD>
+
+what	<PAD>
+degrees	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+buried	<PAD>
+
+what	<PAD>
+is	<PAD>
+someone	<PAD>
+uk	<PAD>
+time	<PAD>
+zone	<PAD>
+
+where	<PAD>
+to	<PAD>
+stay	<PAD>
+in	<PAD>
+someone	<PAD>
+tourist	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+breast	<PAD>
+cancer	<PAD>
+did	<PAD>
+someone	<PAD>
+have	<PAD>
+
+what	<PAD>
+type	<PAD>
+of	<PAD>
+government	<PAD>
+does	<PAD>
+someone	<PAD>
+have	<PAD>
+today	<PAD>
+
+where	<PAD>
+does	<PAD>
+someone	<PAD>
+come	<PAD>
+from	<PAD>
+
+what	<PAD>
+party	<PAD>
+was	<PAD>
+someone	<PAD>
+part	<PAD>
+of	<PAD>
+
+what	<PAD>
+did	<PAD>
+someone	<PAD>
+do	<PAD>
+for	<PAD>
+a	<PAD>
+living	<PAD>
+
+who	<PAD>
+did	<PAD>
+someone	<PAD>
+marry	<PAD>
+
+what	<PAD>
+are	<PAD>
+someone	<PAD>
+called	<PAD>
+
+what	<PAD>
+influenced	<PAD>
+someone	<PAD>
+to	<PAD>
+start	<PAD>
+writing	<PAD>
+
+where	<PAD>
+is	<PAD>
+someone	<PAD>
+ethnicity	<PAD>
+
+where	<PAD>
+are	<PAD>
+someone	<PAD>
+headquarters	<PAD>
+located	<PAD>
+
+in	<PAD>
+which	<PAD>
+state	<PAD>
+was	<PAD>
+the	<PAD>
+battle	<PAD>
+of	<PAD>
+someone	<PAD>
+fought	<PAD>
+
+which	<PAD>
+ocean	<PAD>
+does	<PAD>
+someone	<PAD>
+flow	<PAD>
+into	<PAD>
+
+what	<PAD>
+team	<PAD>
+did	<PAD>
+someone	<PAD>
+play	<PAD>
+for	<PAD>
+before	<PAD>
+la	<PAD>
+galaxy	<PAD>
+
+who	<PAD>
+is	<PAD>
+the	<PAD>
+current	<PAD>
+leader	<PAD>
+of	<PAD>
+someone	<PAD>
+2010	<PAD>
+
+where	<PAD>
+was	<PAD>
+someone	<PAD>
+located	<PAD>
+
+where	<PAD>
+is	<PAD>
+roswell	<PAD>
+someone	<PAD>
+
+when	<PAD>
+was	<PAD>
+someone	<PAD>
+born	<PAD>
+
