@@ -1,7 +1,7 @@
 # -*- encoding:utf-8 -*-
 import codecs
 import random
-source = codecs.open('t_and_v.replace_ne.withpool', encoding='utf-8').readlines()
+source = codecs.open('train.replace_ne.withpool', encoding='utf-8').readlines()
 #labels = codecs.open('WebQSP.label_result.train.out.processed', encoding='utf-8').readlines()
 relations = codecs.open('../KG/sq_relation.processed', encoding='utf-8').readlines()
 target_x = codecs.open('SQall-train.txt', mode='w', encoding='utf-8')
