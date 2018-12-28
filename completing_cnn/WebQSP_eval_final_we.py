@@ -9,7 +9,7 @@ import data_helpers
 from tensorflow.contrib import learn
 import csv
 #from sklearn.metrics.pairwise import cosine_similarity
-from preprocess import WebQSP, Word2Vec
+from preprocess import MData, Word2Vec
 from datetime import datetime
 
 # Data Parameters
@@ -40,7 +40,7 @@ y_test = [s.strip() for s in y_test]
 y_test = list(map(int, y_test))
 x_raw = [data_helpers.clean_str(sent) for sent in x_raw]
 w = Word2Vec()
-test_data = WebQSP(word2vec=w)
+test_data = MData(word2vec=w)
 test_data.open_file_final(FLAGS.final_x, FLAGS.final_y) 
 
 
