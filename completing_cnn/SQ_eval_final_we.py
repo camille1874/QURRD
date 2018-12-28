@@ -8,7 +8,7 @@ import datetime
 import data_helpers
 from tensorflow.contrib import learn
 import csv
-from preprocess import Word2Vec, WebQSP, SQ
+from preprocess import Word2Vec, MData 
 from datetime import datetime
 
 tf.flags.DEFINE_string("final_x", "./data/sqdata/SQ.final_test_x_raw_sost.txt", "Final x")
@@ -37,7 +37,7 @@ y_test = [s.strip() for s in y_test]
 y_test = list(map(int, y_test))
 x_raw = [data_helpers.clean_str(sent) for sent in x_raw]
 w = Word2Vec()
-test_data = SQ(word2vec=w) 
+test_data = MData(word2vec=w) 
 test_data.open_file_final(FLAGS.final_x, FLAGS.final_y)
 
 print("\nEvaluating...\n")
