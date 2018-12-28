@@ -4,15 +4,14 @@ import numpy as np
 import os
 import time
 import datetime
-import data_helpers
 from text_cnn import TextCNN
 from tensorflow.contrib import learn
-from preprocess import Word2Vec, WebQSP, SQ
+from preprocess import Word2Vec, MData
 
 #tf.flags.DEFINE_string("positive_data_file", "./data/sqdata/SQ.t_and_v.pos.txt", "Data source for the positive data.")
-tf.flags.DEFINE_string("positive_data_file", "./data/webqspdata/WebQSPall.pos.txt", "Data source for the positive data.")
+tf.flags.DEFINE_string("positive_data_file", "./data/webqspdata/WebQSPall.pos1.txt", "Data source for the positive data.")
 #tf.flags.DEFINE_string("negative_data_file", "./data/sqdata/SQ.t_and_v.neg.txt", "Data source for the negative data.")
-tf.flags.DEFINE_string("negative_data_file", "./data/webqspdata/WebQSPall.neg.txt", "Data source for the negative data.")
+tf.flags.DEFINE_string("negative_data_file", "./data/webqspdata/WebQSPall.neg1.txt", "Data source for the negative data.")
 
 tf.flags.DEFINE_integer("embedding_dim", 300, "Dimensionality of character embedding")
 tf.flags.DEFINE_string("filter_sizes", "2,3,4,5", "Comma-separated filter sizes")
@@ -22,9 +21,9 @@ tf.flags.DEFINE_float("l2_reg_lambda", 0.0, "L2 regularization lambda")
 
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size")
 tf.flags.DEFINE_integer("num_epochs", 50, "Number of training epochs")
-tf.flags.DEFINE_integer("evaluate_every", 100, "Evaluate model on dev set after this many steps")
+tf.flags.DEFINE_integer("evaluate_every", 1, "Evaluate model on dev set after this many steps")
 tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many steps")
-tf.flags.DEFINE_integer("num_checkpoints", 100, "Number of checkpoints to store")
+tf.flags.DEFINE_integer("num_checkpoints", 1000, "Number of checkpoints to store")
 #tf.flags.DEFINE_string("checkpoint_dir", "", "Chechpoint directory")
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on devices")
@@ -39,7 +38,7 @@ print("")
 
 print("Loading data...")
 w = Word2Vec()
-train_data = SQ(word2vec=w)
+train_data = MData(word2vec=w)
 train_data.open_file(FLAGS.positive_data_file, FLAGS.negative_data_file)
 print("=" * 50)
 print("training data size:", train_data.data_size)
@@ -88,7 +87,8 @@ with tf.Graph().as_default():
         checkpoint_prefix = os.path.join(checkpoint_dir, "model")
         if not os.path.exists(checkpoint_dir):
             os.makedirs(checkpoint_dir)
-        saver = tf.train.Saver(tf.global_variables(), max_to_keep=FLAGS.num_checkpoints)
+        #saver = tf.train.Saver(tf.global_variables(), max_to_keep=FLAGS.num_checkpoints)
+        saver = tf.train.Saver(tf.global_variables())
 
         # Write vocabulary
         #vocab_processor.save(os.path.join(out_dir, "vocab"))
