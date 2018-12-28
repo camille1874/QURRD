@@ -7,7 +7,7 @@ from data_helpers import clean_str
 
 class Word2Vec():
     def __init__(self):
-        self.model = gensim.models.KeyedVectors.load_word2vec_format('./GoogleNews-vectors-negative300.bin',
+        self.model = gensim.models.KeyedVectors.load_word2vec_format('../GoogleNews-vectors-negative300.bin',
         #self.model = gensim.models.KeyedVectors.load_word2vec_format('./vectors.bin',
                                                                      binary=True)
         self.unknowns = np.random.uniform(-0.01, 0.01, 300).astype("float32")
@@ -70,22 +70,22 @@ class Data():
 
 
 
-class WebQSP(Data):
+class MData(Data):
     def open_file(self, pos_file, neg_file):
         pos = codecs.open(pos_file, encoding="utf-8").readlines()
         neg = codecs.open(neg_file, encoding="utf-8").readlines()
         pos = [clean_str(x).split(" ") for x in pos]
         neg = [clean_str(x).split(" ") for x in neg]
         self.s = np.array(pos + neg)
-        pos_labels = [[0, 1] for _ in pos]
-        neg_labels = [[1, 0] for _ in neg]
+        pos_labels = [[0, 1]] * len(pos)
+        neg_labels = [[1, 0]] * len(neg)
         self.labels = np.concatenate([pos_labels, neg_labels], 0)
         random.seed(10)
         random.shuffle(self.s) 
         random.seed(10)
         random.shuffle(self.labels)
 
-        local_max_len = max([len(x) for x in s])
+        local_max_len = max([len(x) for x in self.s])
         if local_max_len > self.max_len:
             self.max_len = local_max_len
 
@@ -95,7 +95,7 @@ class WebQSP(Data):
     def open_file_final(self, x_file, y_file):
         xs = codecs.open(x_file, encoding="utf-8").readlines()
         ys = codecs.open(y_file, encoding="utf-8").readlines()
-        xs = [clean_str(x).split(" ") for x in xs]
+        xs = [clean_str(x).split(" ")[:self.max_len] for x in xs]
         ys = [int(x.strip()) for x in ys]
         self.s = np.array(xs)
         new_y = []
@@ -111,56 +111,3 @@ class WebQSP(Data):
             self.max_len = local_max_len
 
         self.data_size = len(self.s)
-
-
-
-
-
-class SQ(Data):
-    def open_file(self, pos_file, neg_file):
-        pos = codecs.open(pos_file, encoding="utf-8").readlines()
-        neg = codecs.open(neg_file, encoding="utf-8").readlines()
-        pos = [clean_str(x).split(" ") for x in pos]
-        neg = [clean_str(x).split(" ") for x in neg]
-        self.s = np.array(pos + neg)
-        pos_labels = [[0, 1] for _ in pos]
-        neg_labels = [[1, 0] for _ in neg]
-        #pos_labels = [1 for _ in pos]
-        #neg_labels = [0 for _ in neg]
-        self.labels = np.concatenate([pos_labels, neg_labels], 0)
-        random.seed(10)
-        random.shuffle(self.s) 
-        random.seed(10)
-        random.shuffle(self.labels)
-
-        local_max_len = max([len(x) for x in self.s])
-        if local_max_len > self.max_len:
-            self.max_len = local_max_len
-
-        self.data_size = len(self.s)
-
-
-
-
-    def open_file_final(self, x_file, y_file):
-        xs = codecs.open(x_file, encoding="utf-8").readlines()
-        ys = codecs.open(y_file, encoding="utf-8").readlines()
-        xs = [clean_str(x).split(" ") for x in xs]
-        ys = [int(x.strip()) for x in ys]
-        self.s = np.array(xs)
-        new_y = []
-        for y in ys:
-            if y == 1:
-                new_y.append([0, 1])
-            elif y == 0:
-                new_y.append([1, 0])
-        self.labels = np.array(new_y)
-
-        local_max_len = max([len(x) for x in self.s])
-        if local_max_len > self.max_len:
-            self.max_len = local_max_len
-
-        self.data_size = len(self.s)
-
-
-
